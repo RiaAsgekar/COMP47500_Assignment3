@@ -18,9 +18,7 @@ Node.java: Includes constructors to initialize the node and assigns priority.
 
 Experimentation:
 
-Insertion: The insertion() method conducts experiments to measure the time taken for inserting each data point into each implementation. Time measurements are in nanoseconds.
-
-Deletion: The delete() method conducts experiments to measure the time taken for deletion of each data point into each implementation. Time measurements are in nanoseconds.
+The Main class calls the insert and delete functions of the 3 priority queue implementations to test and compare their performances. Time measurements are taken in nanoseconds.
 
 Note: The experiments are conducted with the dataset chosen to evaluate the performance of each implementation type.
 
