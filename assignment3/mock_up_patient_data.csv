@@ -1,0 +1,1001 @@
+patient_id,surname,patient_age,patient_gender,financial_class,condition,entry_time,post-consultation_time,completion_time
+91986,Smith,56,female,HMO,Preventative Care Measures,10:46:52 am,11:56:25 am,12:06:28 pm
+6673,Johnson,23,male,medicare,Emergency Department (ED) Measures,9:38:34 am,10:55:50 am,10:58:02 am
+98617,Williams,39,male,insurance,Emergency Department (ED) Measures,11:16:21 am,12:06:49 pm,12:06:54 pm
+46605,Brown,58,female,insurance,Emergency Department (ED) Measures,7:22:09 pm,8:14:03 pm,8:15:03 pm
+7796,Jones,21,female,insurance,Emergency Department (ED) Measures,9:14:45 am,10:51:01 am,10:51:33 am
+32133,Garcia,17,female,insurance,Acute Myocardial Infarction (AMI),10:35:00 am,10:57:26 am,10:57:36 am
+89,Miller,52,unidentified,HMO,Acute Myocardial Infarction (AMI),8:47:59 am,9:59:22 am,9:59:29 am
+8058,Davis,32,male,HMO,Acute Myocardial Infarction (AMI),10:01:25 am,10:32:38 am,10:35:17 am
+48700,Rodriguez,29,female,insurance,Acute Myocardial Infarction (AMI),3:17:36 pm,3:43:29 pm,3:43:33 pm
+37054,Martinez,46,female,insurance,Acute Myocardial Infarction (AMI),2:38:31 pm,3:23:01 pm,3:23:17 pm
+3861,Hernandez,34,male,insurance,Blood clot prevention and treatment,7:18:20 pm,7:36:53 pm,7:46:14 pm
+71434,Lopez,64,male,medicare,Emergency Department (ED) Measures,1:46:52 pm,2:37:19 pm,2:51:14 pm
+76172,Gonzalez,61,unidentified,HMO,Emergency Department (ED) Measures,10:41:25 am,11:25:26 am,11:26:09 am
+28984,Wilson,67,female,insurance,Preventative Care Measures,4:12:40 pm,4:32:34 pm,4:32:36 pm
+52840,Anderson,68,female,insurance,Emergency Department (ED) Measures,8:55:38 pm,9:45:11 pm,9:51:25 pm
+12043,Thomas,38,male,corporate,Emergency Department (ED) Measures,11:06:18 am,11:46:21 am,11:53:04 am
+39767,Taylor,46,female,corporate,Emergency Department (ED) Measures,2:00:54 pm,3:06:51 pm,3:06:57 pm
+6221,Moore,33,unidentified,HMO,Emergency Department (ED) Measures,10:49:22 am,11:20:16 am,11:22:39 am
+22994,Jackson,57,unidentified,HMO,Acute Myocardial Infarction (AMI),11:51:33 am,12:24:06 pm,12:31:10 pm
+11726,Martin,46,unidentified,insurance,Acute Myocardial Infarction (AMI),3:28:46 pm,3:45:28 pm,3:47:50 pm
+86799,Lee,70,unidentified,insurance,Acute Myocardial Infarction (AMI),2:12:06 pm,5:30:59 pm,3:32:48 pm
+64483,Perez,43,male,corporate,Acute Myocardial Infarction (AMI),12:35:01 pm,12:55:43 pm,12:56:00 pm
+77278,Thompson,64,unidentified,medicare,Acute Myocardial Infarction (AMI),11:09:22 am,11:37:49 am,11:48:17 am
+11388,White,27,female,corporate,Blood clot prevention and treatment,10:42:38 am,10:53:47 am,10:57:04 am
+91841,Harris,37,unidentified,insurance,Emergency Department (ED) Measures,4:37:51 pm,4:54:58 pm,5:17:12 pm
+18875,Sanchez,62,female,HMO,Emergency Department (ED) Measures,12:58:50 pm,6:03:12 pm,6:10:58 pm
+75387,Clark,70,female,insurance,Preventative Care Measures,10:22:35 pm,10:28:12 pm,10:31:36 pm
+79913,Ramirez,62,unidentified,insurance,Emergency Department (ED) Measures,8:40:51 am,9:43:05 am,9:52:12 am
+63174,Lewis,52,unidentified,HMO,Emergency Department (ED) Measures,8:46:46 am,9:39:54 am,9:45:03 am
+64806,Robinson,75,unidentified,corporate,Emergency Department (ED) Measures,11:26:44 am,11:50:48 am,11:52:59 am
+58639,Walker,70,unidentified,insurance,Emergency Department (ED) Measures,8:02:59 am,11:28:44 am,11:28:48 am
+33026,Young,17,unidentified,medicare,Acute Myocardial Infarction (AMI),8:37:25 am,10:48:21 am,10:48:34 am
+69751,Allen,47,female,medicare,Acute Myocardial Infarction (AMI),10:13:21 am,11:06:46 am,11:09:28 am
+36835,King,58,male,HMO,Acute Myocardial Infarction (AMI),9:10:04 am,9:30:44 am,9:36:21 am
+63226,Wright,20,female,HMO,Acute Myocardial Infarction (AMI),9:43:18 am,10:03:38 am,10:04:35 am
+14632,Scott,75,unidentified,insurance,Acute Myocardial Infarction (AMI),6:45:16 pm,7:59:57 pm,8:05:50 pm
+4581,Torres,42,male,insurance,Blood clot prevention and treatment,4:16:38 pm,4:56:02 pm,4:56:05 pm
+84105,Nguyen,75,female,insurance,Emergency Department (ED) Measures,9:17:44 am,11:15:06 am,11:43:54 am
+92723,Hill,22,female,insurance,Emergency Department (ED) Measures,8:35:36 am,8:49:18 am,12:26:12 pm
+95916,Flores,34,female,insurance,Preventative Care Measures,6:16:17 pm,7:35:27 pm,7:35:31 pm
+13575,Green,43,male,insurance,Emergency Department (ED) Measures,8:47:40 am,9:35:00 am,9:41:07 am
+60149,Adams,29,unidentified,medicare,Emergency Department (ED) Measures,8:34:51 am,10:03:25 am,10:08:50 am
+66914,Nelson,71,unidentified,insurance,Emergency Department (ED) Measures,2:29:19 pm,3:44:31 pm,4:03:20 pm
+22066,Baker,37,female,insurance,Emergency Department (ED) Measures,11:55:54 am,12:34:14 pm,12:41:07 pm
+53665,Hall,71,female,insurance,Acute Myocardial Infarction (AMI),6:20:04 pm,7:24:55 pm,7:30:39 pm
+78185,Rivera,45,unidentified,insurance,Acute Myocardial Infarction (AMI),3:31:42 pm,5:15:46 pm,5:23:14 pm
+24633,Campbell,64,female,insurance,Acute Myocardial Infarction (AMI),10:48:45 am,1:01:43 pm,1:31:11 pm
+91373,Mitchell,68,unidentified,corporate,Acute Myocardial Infarction (AMI),11:56:00 am,12:46:07 pm,12:50:19 pm
+34085,Carter,70,female,HMO,Acute Myocardial Infarction (AMI),11:33:45 am,12:08:39 pm,12:10:01 pm
+81212,Roberts,21,female,HMO,Blood clot prevention and treatment,9:16:19 am,10:14:33 am,10:17:28 am
+50396,Gomez,64,female,insurance,Emergency Department (ED) Measures,9:28:35 am,11:14:19 am,11:14:21 am
+94699,Phillips,28,female,HMO,Emergency Department (ED) Measures,8:05:55 am,8:47:58 am,8:52:02 am
+19902,Evans,43,male,insurance,Preventative Care Measures,11:53:05 am,12:22:13 pm,12:26:34 pm
+73613,Turner,52,unidentified,insurance,Emergency Department (ED) Measures,8:34:55 am,10:01:04 am,10:01:10 am
+66664,Diaz,50,male,insurance,Emergency Department (ED) Measures,2:25:31 pm,3:00:42 pm,3:08:07 pm
+66570,Parker,61,male,insurance,Emergency Department (ED) Measures,7:03:40 pm,8:09:26 pm,8:28:28 pm
+13720,Cruz,52,male,medicare,Emergency Department (ED) Measures,11:22:17 am,4:49:40 pm,4:52:16 pm
+82605,Edwards,29,female,HMO,Acute Myocardial Infarction (AMI),11:13:44 am,12:29:45 pm,12:30:39 pm
+68373,Collins,40,unidentified,corporate,Acute Myocardial Infarction (AMI),11:16:38 am,12:50:48 pm,12:51:52 pm
+66778,Reyes,32,female,HMO,Acute Myocardial Infarction (AMI),9:02:12 am,9:37:13 am,9:42:57 am
+58817,Stewart,39,unidentified,insurance,Acute Myocardial Infarction (AMI),3:26:43 pm,4:31:06 pm,4:35:22 pm
+49186,Morris,25,female,insurance,Acute Myocardial Infarction (AMI),9:32:09 am,11:30:46 am,11:30:48 am
+70881,Morales,52,unidentified,insurance,Blood clot prevention and treatment,4:09:02 pm,4:25:29 pm,4:39:48 pm
+167,Murphy,22,unidentified,corporate,Emergency Department (ED) Measures,4:32:42 pm,4:54:26 pm,4:56:38 pm
+32726,Cook,67,male,insurance,Emergency Department (ED) Measures,2:13:44 pm,3:09:09 pm,3:09:11 pm
+3767,Rogers,45,unidentified,HMO,Preventative Care Measures,8:41:54 am,10:01:42 am,10:04:23 am
+25974,Gutierrez,16,unidentified,medicare,Emergency Department (ED) Measures,8:17:04 am,9:33:55 am,9:34:43 am
+7194,Ortiz,31,male,HMO,Emergency Department (ED) Measures,11:40:51 am,1:18:21 pm,1:19:13 pm
+33832,Morgan,49,unidentified,medicare,Emergency Department (ED) Measures,4:00:51 pm,4:26:37 pm,4:27:24 pm
+81044,Cooper,46,female,medicare,Emergency Department (ED) Measures,9:40:56 am,10:09:47 am,10:15:27 am
+97198,Peterson,70,unidentified,insurance,Acute Myocardial Infarction (AMI),9:03:41 am,9:56:40 am,9:59:49 am
+61904,Bailey,56,male,corporate,Acute Myocardial Infarction (AMI),9:25:39 am,10:58:21 am,10:58:32 am
+3131,Reed,28,female,insurance,Acute Myocardial Infarction (AMI),8:46:15 am,9:45:01 am,9:45:04 am
+61525,Kelly,41,female,HMO,Acute Myocardial Infarction (AMI),2:11:35 pm,2:40:46 pm,3:00:14 pm
+37324,Howard,67,unidentified,insurance,Acute Myocardial Infarction (AMI),10:31:42 am,12:09:35 pm,12:09:37 pm
+52113,Ramos,59,female,insurance,Blood clot prevention and treatment,8:40:12 am,9:32:54 am,9:39:56 am
+27716,Kim,25,female,insurance,Emergency Department (ED) Measures,8:22:48 pm,8:49:01 pm,8:52:29 pm
+20093,Cox,19,unidentified,HMO,Emergency Department (ED) Measures,8:59:10 am,1:30:14 pm,1:43:39 pm
+3203,Ward,47,female,insurance,Preventative Care Measures,11:05:04 am,11:59:36 am,11:59:48 am
+72365,Richardson,45,male,insurance,Emergency Department (ED) Measures,8:56:34 pm,9:43:34 pm,9:51:30 pm
+56408,Watson,37,unidentified,insurance,Emergency Department (ED) Measures,8:49:17 am,9:15:23 am,9:15:25 am
+28824,Brooks,41,unidentified,insurance,Emergency Department (ED) Measures,12:30:26 pm,12:40:26 pm,12:40:41 pm
+3863,Chavez,68,unidentified,HMO,Emergency Department (ED) Measures,9:26:50 am,10:23:27 am,10:26:42 am
+77247,Wood,29,male,HMO,Acute Myocardial Infarction (AMI),8:49:09 am,9:24:19 am,9:31:41 am
+15377,James,71,female,corporate,Acute Myocardial Infarction (AMI),10:43:26 am,10:54:10 am,10:57:10 am
+7470,Bennett,69,unidentified,insurance,Acute Myocardial Infarction (AMI),8:56:05 am,9:18:27 am,9:22:58 am
+48076,Gray,40,female,insurance,Acute Myocardial Infarction (AMI),10:24:23 am,10:57:25 am,11:18:21 am
+75667,Mendoza,37,female,insurance,Acute Myocardial Infarction (AMI),7:01:04 pm,7:26:09 pm,7:28:19 pm
+9055,Ruiz,23,male,medicare,Blood clot prevention and treatment,9:59:16 am,11:11:05 am,11:18:00 am
+86367,Hughes,34,female,HMO,Acute Myocardial Infarction (AMI),9:23:36 am,10:09:46 am,10:15:03 am
+23167,Price,68,male,insurance,Emergency Department (ED) Measures,8:58:04 pm,9:23:54 pm,9:43:52 pm
+23608,Alvarez,39,male,HMO,Acute Myocardial Infarction (AMI),9:42:47 am,11:58:32 am,11:58:43 am
+51684,Castillo,19,unidentified,insurance,Blood clot prevention and treatment,11:05:30 am,11:35:29 am,11:55:10 am
+50223,Sanders,69,male,HMO,Acute Myocardial Infarction (AMI),9:43:29 am,10:43:23 am,10:46:18 am
+10836,Patel,69,male,medicare,Acute Myocardial Infarction (AMI),6:06:22 pm,6:53:49 pm,7:47:43 pm
+29595,Myers,66,female,insurance,Acute Myocardial Infarction (AMI),6:28:45 pm,7:02:24 pm,7:08:05 pm
+43503,Long,68,male,insurance,Acute Myocardial Infarction (AMI),11:38:00 am,12:18:57 pm,12:18:59 pm
+3508,Ross,57,unidentified,insurance,Acute Myocardial Infarction (AMI),9:30:25 am,10:56:56 am,12:14:12 pm
+68671,Foster,71,female,insurance,Emergency Department (ED) Measures,6:57:23 pm,7:18:39 pm,7:27:18 pm
+24975,Jimenez,59,unidentified,insurance,Acute Myocardial Infarction (AMI),8:56:14 am,9:48:48 am,9:48:54 am
+36595,Powell,61,unidentified,medicare,Emergency Department (ED) Measures,9:59:27 am,11:02:13 am,11:18:13 am
+46854,Jenkins,70,female,HMO,Acute Myocardial Infarction (AMI),10:31:33 am,10:45:58 am,10:46:21 am
+96491,Perry,45,female,insurance,Emergency Department (ED) Measures,8:39:46 am,8:55:50 am,9:00:22 am
+44037,Russell,19,male,insurance,Acute Myocardial Infarction (AMI),4:58:45 pm,6:11:48 pm,6:30:08 pm
+84397,Sullivan,28,female,insurance,Acute Myocardial Infarction (AMI),9:31:04 am,9:44:34 am,9:44:36 am
+99164,Bell,39,male,HMO,Acute Myocardial Infarction (AMI),3:06:39 pm,3:28:37 pm,3:30:02 pm
+88458,Coleman,65,male,insurance,Acute Myocardial Infarction (AMI),10:48:22 am,12:35:15 pm,12:36:28 pm
+37982,Butler,27,unidentified,HMO,Acute Myocardial Infarction (AMI),8:39:21 am,10:55:00 am,10:56:00 am
+27814,Henderson,34,male,insurance,Acute Myocardial Infarction (AMI),6:40:36 pm,9:18:02 pm,9:18:05 pm
+25162,Barnes,17,male,HMO,Emergency Department (ED) Measures,11:02:49 am,12:21:04 pm,12:22:12 pm
+4299,Gonzales,55,unidentified,insurance,Emergency Department (ED) Measures,8:59:57 pm,10:15:58 pm,10:16:02 pm
+17605,Fisher,15,unidentified,insurance,Acute Myocardial Infarction (AMI),11:47:09 am,1:01:23 pm,1:41:45 pm
+5276,Vasquez,27,female,insurance,Blood clot prevention and treatment,8:02:18 am,9:58:19 am,9:58:26 am
+22082,Simmons,24,male,insurance,Blood clot prevention and treatment,10:49:30 am,11:38:53 am,11:39:38 am
+43924,Romero,16,male,insurance,Acute Myocardial Infarction (AMI),11:18:47 am,12:18:54 pm,12:40:33 pm
+32865,Jordan,44,female,insurance,Emergency Department (ED) Measures,4:36:47 pm,6:02:47 pm,6:17:45 pm
+23651,Patterson,75,female,insurance,Emergency Department (ED) Measures,3:44:23 pm,4:15:38 pm,4:19:37 pm
+53160,Alexander,33,male,insurance,Emergency Department (ED) Measures,8:33:13 am,9:06:02 am,9:11:20 am
+87954,Hamilton,68,female,medicare,Emergency Department (ED) Measures,8:32:44 am,10:18:23 am,10:22:30 am
+76759,Graham,22,unidentified,medicare,Acute Myocardial Infarction (AMI),11:10:19 am,1:55:50 pm,1:56:08 pm
+63207,Reynolds,37,unidentified,HMO,Emergency Department (ED) Measures,2:01:39 pm,2:14:38 pm,2:17:15 pm
+6684,Griffin,58,male,corporate,Emergency Department (ED) Measures,8:50:33 am,9:29:18 am,9:30:37 am
+21851,Wallace,67,female,HMO,Blood clot prevention and treatment,9:11:39 am,9:18:38 am,9:20:00 am
+40511,Moreno,16,unidentified,HMO,Preventative Care Measures,11:52:03 am,12:24:28 pm,12:30:45 pm
+74385,West,65,female,insurance,Acute Myocardial Infarction (AMI),8:32:43 am,9:07:14 am,9:07:18 am
+48167,Cole,48,male,medicare,Emergency Department (ED) Measures,8:12:02 am,8:35:34 am,8:39:41 am
+95751,Hayes,34,male,HMO,Preventative Care Measures,8:45:47 am,10:20:44 am,10:25:57 am
+56303,Bryant,60,female,insurance,Preventative Care Measures,7:13:01 pm,7:32:16 pm,7:36:50 pm
+56725,Herrera,26,unidentified,insurance,Acute Myocardial Infarction (AMI),3:15:54 pm,4:03:05 pm,4:45:44 pm
+63132,Gibson,65,male,HMO,Blood clot prevention and treatment,2:04:55 pm,2:27:00 pm,2:30:14 pm
+8302,Ellis,20,unidentified,HMO,Emergency Department (ED) Measures,8:47:00 am,9:20:31 am,9:21:49 am
+65240,Tran,29,male,HMO,Acute Myocardial Infarction (AMI),5:59:57 pm,6:30:41 pm,6:32:02 pm
+35759,Medina,20,female,medicare,Acute Myocardial Infarction (AMI),3:18:12 pm,3:33:51 pm,3:45:21 pm
+19058,Aguilar,43,male,medicare,Emergency Department (ED) Measures,2:55:41 pm,3:36:45 pm,3:37:17 pm
+50747,Stevens,45,unidentified,HMO,Emergency Department (ED) Measures,9:02:17 am,9:26:17 am,9:35:00 am
+82737,Murray,19,female,insurance,Emergency Department (ED) Measures,1:09:07 pm,1:32:54 pm,1:34:44 pm
+35629,Ford,65,male,corporate,Emergency Department (ED) Measures,8:31:19 am,9:03:17 am,9:10:59 am
+48059,Castro,19,female,medicare,Emergency Department (ED) Measures,10:23:03 am,11:25:15 am,11:30:09 am
+19886,Marshall,38,female,HMO,Emergency Department (ED) Measures,9:51:43 am,12:22:46 pm,12:24:21 pm
+93134,Owens,32,male,insurance,Emergency Department (ED) Measures,9:18:10 am,11:46:56 am,11:47:01 am
+17861,Harrison,72,unidentified,corporate,Acute Myocardial Infarction (AMI),10:48:19 am,12:09:14 pm,11:08:31 am
+22954,Fernandez,67,female,HMO,Emergency Department (ED) Measures,9:07:35 am,6:30:25 pm,6:31:21 pm
+44545,Mcdonald,47,female,medicare,Emergency Department (ED) Measures,9:49:54 pm,10:11:44 pm,10:12:00 pm
+70791,Woods,26,female,medicare,Acute Myocardial Infarction (AMI),11:00:09 am,11:43:13 am,11:44:51 am
+31529,Washington,45,unidentified,HMO,Emergency Department (ED) Measures,3:42:21 pm,3:47:00 pm,3:50:49 pm
+38760,Kennedy,53,female,medicare,Emergency Department (ED) Measures,10:39:33 am,11:03:13 am,11:06:30 am
+34946,Wells,55,male,insurance,Emergency Department (ED) Measures,8:25:45 pm,8:43:54 pm,8:44:56 pm
+79854,Vargas,71,female,insurance,Acute Myocardial Infarction (AMI),9:28:04 am,10:21:13 am,10:21:15 am
+50928,Henry,41,unidentified,corporate,Emergency Department (ED) Measures,10:14:33 am,11:24:29 am,11:25:22 am
+10177,Chen,20,male,insurance,Emergency Department (ED) Measures,7:24:49 pm,7:51:11 pm,7:52:37 pm
+66644,Freeman,56,male,insurance,Acute Myocardial Infarction (AMI),8:18:57 pm,8:54:39 pm,8:58:49 pm
+64962,Webb,66,male,insurance,Preventative Care Measures,10:00:43 am,10:48:58 am,10:52:11 am
+71055,Tucker,28,unidentified,insurance,Emergency Department (ED) Measures,8:50:01 am,9:20:41 am,9:40:13 am
+75424,Guzman,30,female,insurance,Emergency Department (ED) Measures,10:17:59 am,10:56:52 am,10:58:02 am
+17837,Burns,41,male,corporate,Acute Myocardial Infarction (AMI),8:46:27 am,9:35:05 am,9:40:02 am
+99189,Crawford,69,male,insurance,Blood clot prevention and treatment,8:37:52 am,9:14:47 am,9:21:33 am
+13262,Olson,23,male,HMO,Acute Myocardial Infarction (AMI),6:07:04 pm,7:10:58 pm,7:13:59 pm
+520,Simpson,23,female,HMO,Emergency Department (ED) Measures,6:48:36 pm,8:05:24 pm,8:09:38 pm
+22715,Porter,58,unidentified,insurance,Emergency Department (ED) Measures,9:58:14 am,12:07:59 pm,11:21:53 am
+82144,Hunter,21,male,insurance,Emergency Department (ED) Measures,7:09:03 pm,8:27:11 pm,8:43:24 pm
+23884,Gordon,34,unidentified,medicare,Acute Myocardial Infarction (AMI),9:06:37 am,9:43:31 am,9:44:55 am
+65338,Mendez,23,male,insurance,Preventative Care Measures,10:26:02 am,11:30:06 am,11:33:35 am
+86192,Silva,38,female,medicare,Emergency Department (ED) Measures,5:13:26 pm,5:35:25 pm,6:18:43 pm
+98580,Shaw,46,female,medicare,Emergency Department (ED) Measures,2:04:56 pm,2:59:47 pm,3:04:08 pm
+39126,Snyder,47,unidentified,corporate,Emergency Department (ED) Measures,2:03:24 pm,2:11:53 pm,2:20:50 pm
+61305,Mason,24,male,insurance,Acute Myocardial Infarction (AMI),11:13:20 am,11:28:41 am,11:28:43 am
+48789,Dixon,63,unidentified,medicare,Acute Myocardial Infarction (AMI),10:40:18 am,11:16:18 am,11:17:48 am
+46697,Munoz,45,male,corporate,Acute Myocardial Infarction (AMI),8:36:43 am,8:48:15 am,8:57:41 am
+92173,Hunt,28,male,insurance,Acute Myocardial Infarction (AMI),8:54:29 am,9:26:12 am,9:34:34 am
+29294,Hicks,41,male,HMO,Preventative Care Measures,9:22:44 am,9:52:51 am,9:55:56 am
+83755,Holmes,59,female,HMO,Emergency Department (ED) Measures,8:07:08 am,8:52:57 am,8:53:05 am
+62807,Palmer,32,unidentified,insurance,Emergency Department (ED) Measures,10:48:23 am,2:10:54 pm,11:08:00 am
+60913,Wagner,72,unidentified,corporate,Emergency Department (ED) Measures,8:06:43 am,8:58:59 am,9:08:49 am
+44762,Black,54,male,medicare,Acute Myocardial Infarction (AMI),10:04:51 am,1:29:16 pm,1:34:15 pm
+6507,Robertson,74,unidentified,corporate,Acute Myocardial Infarction (AMI),10:36:13 am,10:59:30 am,10:59:36 am
+91367,Boyd,51,male,HMO,Acute Myocardial Infarction (AMI),10:14:37 am,10:58:17 am,11:02:28 am
+15350,Rose,54,unidentified,insurance,Emergency Department (ED) Measures,8:50:24 am,9:20:11 am,9:31:22 am
+97907,Stone,58,male,insurance,Emergency Department (ED) Measures,8:33:20 am,1:14:18 pm,1:14:21 pm
+75517,Salazar,59,unidentified,medicare,Emergency Department (ED) Measures,8:51:09 pm,8:54:46 pm,8:56:30 pm
+98073,Fox,44,male,insurance,Emergency Department (ED) Measures,3:27:07 pm,4:36:55 pm,4:37:01 pm
+54864,Warren,71,unidentified,HMO,Emergency Department (ED) Measures,7:38:00 pm,8:58:53 pm,8:59:54 pm
+54143,Mills,39,female,insurance,Emergency Department (ED) Measures,8:31:57 am,9:05:02 am,9:06:48 am
+31106,Meyer,58,male,insurance,Acute Myocardial Infarction (AMI),7:55:27 pm,8:08:30 pm,8:16:12 pm
+16019,Rice,49,male,HMO,Blood clot prevention and treatment,2:47:46 pm,3:32:50 pm,3:36:28 pm
+29967,Schmidt,63,female,insurance,Emergency Department (ED) Measures,3:34:32 pm,4:01:46 pm,4:01:49 pm
+54847,Garza,64,female,HMO,Emergency Department (ED) Measures,9:59:41 am,10:14:49 am,10:21:29 am
+3277,Daniels,25,male,medicare,Acute Myocardial Infarction (AMI),2:15:01 pm,2:54:27 pm,2:55:12 pm
+50193,Ferguson,41,female,medicare,Emergency Department (ED) Measures,8:59:14 am,10:29:59 am,10:30:36 am
+29750,Nichols,75,female,insurance,Emergency Department (ED) Measures,4:30:41 pm,4:41:18 pm,4:45:45 pm
+90383,Stephens,66,female,HMO,Blood clot prevention and treatment,8:05:13 am,8:25:01 am,10:01:26 am
+61475,Soto,69,male,insurance,Emergency Department (ED) Measures,8:53:18 am,10:24:38 am,11:10:27 am
+62999,Weaver,55,male,insurance,Emergency Department (ED) Measures,8:55:14 am,9:06:48 am,9:12:51 am
+66161,Ryan,63,female,insurance,Emergency Department (ED) Measures,3:26:30 pm,3:43:07 pm,3:50:45 pm
+55825,Gardner,39,unidentified,corporate,Emergency Department (ED) Measures,10:29:02 am,11:43:17 am,11:45:43 am
+92861,Payne,75,unidentified,insurance,Emergency Department (ED) Measures,7:46:36 pm,8:00:16 pm,8:04:57 pm
+75267,Grant,71,male,insurance,Blood clot prevention and treatment,9:25:37 am,10:24:04 am,10:28:59 am
+37027,Dunn,51,male,corporate,Emergency Department (ED) Measures,2:46:40 pm,3:16:09 pm,3:31:45 pm
+6868,Kelley,38,unidentified,insurance,Emergency Department (ED) Measures,10:06:50 am,11:24:20 am,11:27:08 am
+74787,Spencer,71,male,HMO,Preventative Care Measures,8:32:55 am,8:47:36 am,9:00:13 am
+74898,Hawkins,56,unidentified,insurance,Acute Myocardial Infarction (AMI),2:01:41 pm,2:25:14 pm,2:26:41 pm
+30337,Arnold,18,male,insurance,Emergency Department (ED) Measures,1:54:20 pm,3:10:04 pm,3:10:11 pm
+43162,Pierce,74,female,medicare,Acute Myocardial Infarction (AMI),8:47:49 am,9:38:21 am,9:40:44 am
+60737,Vazquez,31,female,insurance,Acute Myocardial Infarction (AMI),9:44:38 am,10:08:38 am,10:10:09 am
+28958,Hansen,25,male,insurance,Emergency Department (ED) Measures,8:32:06 am,9:10:43 am,9:10:46 am
+52848,Peters,24,unidentified,insurance,Blood clot prevention and treatment,9:37:53 am,1:16:28 pm,1:16:52 pm
+29968,Santos,31,unidentified,insurance,Acute Myocardial Infarction (AMI),2:38:13 pm,3:00:27 pm,3:00:50 pm
+53135,Hart,46,female,medicare,Emergency Department (ED) Measures,7:37:54 pm,8:18:29 pm,8:21:44 pm
+99198,Bradley,19,male,HMO,Emergency Department (ED) Measures,2:49:08 pm,3:24:57 pm,3:27:58 pm
+57472,Knight,54,unidentified,medicare,Blood clot prevention and treatment,8:38:07 am,9:21:33 am,9:25:19 am
+71568,Elliott,67,male,corporate,Emergency Department (ED) Measures,10:44:27 am,10:54:41 am,10:54:55 am
+77083,Cunningham,60,male,insurance,Acute Myocardial Infarction (AMI),8:31:43 am,8:54:35 am,8:55:09 am
+27343,Duncan,39,female,insurance,Emergency Department (ED) Measures,8:48:52 am,9:32:12 am,9:40:02 am
+71159,Armstrong,17,female,medicare,Acute Myocardial Infarction (AMI),9:37:16 am,9:43:09 am,9:46:34 am
+46766,Hudson,62,female,insurance,Acute Myocardial Infarction (AMI),11:08:53 am,1:04:52 pm,1:11:25 pm
+73395,Carroll,46,unidentified,medicare,Acute Myocardial Infarction (AMI),12:19:07 pm,12:35:46 pm,12:38:26 pm
+94289,Lane,57,unidentified,insurance,Emergency Department (ED) Measures,1:31:57 pm,2:03:48 pm,2:06:23 pm
+29370,Riley,18,female,insurance,Preventative Care Measures,12:22:29 pm,12:40:43 pm,12:40:55 pm
+67221,Andrews,16,unidentified,medicare,Emergency Department (ED) Measures,8:25:21 am,8:39:17 am,8:41:31 am
+43749,Alvarado,25,male,corporate,Acute Myocardial Infarction (AMI),11:08:56 am,12:32:03 pm,12:32:11 pm
+2616,Ray,54,male,insurance,Preventative Care Measures,9:40:35 am,9:53:11 am,9:53:13 am
+38528,Delgado,23,female,insurance,Acute Myocardial Infarction (AMI),3:14:15 pm,3:36:50 pm,3:36:52 pm
+91661,Berry,58,female,insurance,Emergency Department (ED) Measures,6:51:02 pm,7:51:00 pm,7:58:50 pm
+81082,Perkins,68,female,HMO,Acute Myocardial Infarction (AMI),10:06:07 pm,10:33:35 pm,10:34:09 pm
+63798,Hoffman,47,unidentified,insurance,Acute Myocardial Infarction (AMI),2:03:29 pm,2:38:28 pm,2:39:48 pm
+94081,Johnston,22,female,insurance,Emergency Department (ED) Measures,2:23:34 pm,2:46:57 pm,2:47:01 pm
+65475,Matthews,36,female,corporate,Acute Myocardial Infarction (AMI),7:23:52 pm,7:27:12 pm,7:27:18 pm
+17387,Pena,53,male,HMO,Blood clot prevention and treatment,12:16:19 pm,12:31:35 pm,12:34:16 pm
+31953,Richards,49,unidentified,HMO,Emergency Department (ED) Measures,9:04:10 am,11:54:58 am,12:10:59 pm
+86424,Contreras,51,male,insurance,Emergency Department (ED) Measures,6:36:11 pm,6:54:21 pm,7:02:22 pm
+46251,Willis,36,unidentified,HMO,Emergency Department (ED) Measures,2:16:10 pm,2:40:28 pm,2:41:29 pm
+57225,Carpenter,52,male,medicare,Preventative Care Measures,8:33:15 am,10:05:57 am,10:09:24 am
+31688,Lawrence,47,female,insurance,Acute Myocardial Infarction (AMI),12:08:59 pm,12:30:27 pm,12:31:42 pm
+35157,Sandoval,46,unidentified,insurance,Acute Myocardial Infarction (AMI),10:31:27 am,1:00:18 pm,1:00:23 pm
+51618,Guerrero,38,unidentified,medicare,Acute Myocardial Infarction (AMI),11:15:08 am,11:38:52 am,11:39:35 am
+18877,George,38,unidentified,HMO,Emergency Department (ED) Measures,6:51:54 pm,7:26:31 pm,7:26:38 pm
+15841,Chapman,36,unidentified,insurance,Acute Myocardial Infarction (AMI),4:20:40 pm,5:01:06 pm,5:01:09 pm
+62859,Rios,59,unidentified,corporate,Preventative Care Measures,9:42:00 am,11:01:30 am,11:02:33 am
+78354,Estrada,21,unidentified,HMO,Acute Myocardial Infarction (AMI),9:26:49 am,4:33:44 pm,10:24:45 am
+94445,Ortega,29,male,HMO,Emergency Department (ED) Measures,11:10:33 am,11:29:55 am,11:39:00 am
+59198,Watkins,34,female,insurance,Acute Myocardial Infarction (AMI),2:46:28 pm,3:03:57 pm,3:04:01 pm
+24212,Greene,51,unidentified,insurance,Emergency Department (ED) Measures,11:12:46 am,11:22:28 am,11:29:17 am
+6579,Nunez,67,unidentified,medicare,Acute Myocardial Infarction (AMI),2:32:01 pm,2:53:35 pm,2:56:10 pm
+75803,Wheeler,64,male,HMO,Emergency Department (ED) Measures,8:54:42 am,9:33:22 am,9:40:33 am
+65641,Valdez,75,unidentified,HMO,Emergency Department (ED) Measures,9:30:42 am,11:20:42 am,9:54:32 am
+45670,Harper,49,unidentified,medicare,Emergency Department (ED) Measures,9:16:44 am,10:11:12 am,11:42:58 am
+43021,Burke,70,male,medicare,Acute Myocardial Infarction (AMI),4:05:43 pm,4:19:50 pm,6:09:28 pm
+62596,Larson,43,unidentified,corporate,Emergency Department (ED) Measures,10:22:08 am,11:24:42 am,11:33:53 am
+204,Santiago,52,male,insurance,Preventative Care Measures,9:21:02 am,9:57:25 am,10:01:56 am
+1049,Maldonado,63,unidentified,corporate,Acute Myocardial Infarction (AMI),2:43:05 pm,3:18:51 pm,3:20:47 pm
+71005,Morrison,35,unidentified,insurance,Emergency Department (ED) Measures,11:06:33 am,11:48:20 am,11:48:26 am
+98873,Franklin,47,male,insurance,Emergency Department (ED) Measures,8:41:34 am,9:46:02 am,9:54:24 am
+636,Carlson,42,unidentified,HMO,Emergency Department (ED) Measures,10:32:50 am,10:48:11 am,10:52:14 am
+66555,Austin,61,male,HMO,Emergency Department (ED) Measures,2:05:34 pm,2:33:37 pm,2:38:02 pm
+36219,Dominguez,42,female,medicare,Emergency Department (ED) Measures,8:01:18 am,8:58:40 am,8:58:51 am
+43909,Carr,66,female,insurance,Emergency Department (ED) Measures,9:22:37 am,11:17:24 am,11:17:26 am
+41573,Lawson,60,female,insurance,Emergency Department (ED) Measures,2:27:53 pm,2:47:50 pm,2:54:42 pm
+98968,Jacobs,25,female,insurance,Emergency Department (ED) Measures,11:10:39 am,11:39:09 am,11:39:47 am
+44338,Obrien,73,unidentified,insurance,Emergency Department (ED) Measures,12:32:07 pm,12:38:10 pm,12:43:28 pm
+58241,Lynch,58,female,insurance,Acute Myocardial Infarction (AMI),11:09:20 am,12:49:19 pm,12:49:25 pm
+68748,Singh,43,unidentified,corporate,Emergency Department (ED) Measures,11:19:17 am,11:23:23 am,11:27:25 am
+62598,Vega,17,male,HMO,Acute Myocardial Infarction (AMI),2:04:37 pm,5:40:43 pm,5:41:47 pm
+55057,Bishop,47,unidentified,HMO,Emergency Department (ED) Measures,9:41:12 am,10:01:28 am,10:02:44 am
+46005,Montgomery,52,unidentified,medicare,Emergency Department (ED) Measures,9:53:46 am,10:42:08 am,10:44:52 am
+98494,Oliver,53,female,medicare,Emergency Department (ED) Measures,8:38:07 pm,9:01:55 pm,9:06:51 pm
+28107,Jensen,70,male,insurance,Preventative Care Measures,2:35:48 pm,3:48:00 pm,3:48:01 pm
+81070,Harvey,30,male,corporate,Acute Myocardial Infarction (AMI),2:23:39 pm,2:33:08 pm,2:34:26 pm
+15120,Williamson,52,unidentified,HMO,Emergency Department (ED) Measures,8:36:38 am,2:05:50 pm,11:30:21 am
+76742,Gilbert,42,female,insurance,Emergency Department (ED) Measures,2:06:46 pm,2:36:19 pm,2:36:56 pm
+90454,Dean,43,female,HMO,Emergency Department (ED) Measures,10:30:56 am,10:41:18 am,10:47:55 am
+32637,Sims,33,unidentified,HMO,Acute Myocardial Infarction (AMI),6:37:06 pm,7:05:14 pm,7:10:38 pm
+51199,Espinoza,60,unidentified,insurance,Emergency Department (ED) Measures,7:41:19 pm,8:46:00 pm,9:07:03 pm
+4080,Howell,67,male,HMO,Acute Myocardial Infarction (AMI),7:59:34 am,8:49:30 am,8:49:58 am
+41773,Li,66,female,medicare,Preventative Care Measures,4:08:10 pm,4:23:14 pm,4:24:24 pm
+9443,Wong,19,female,corporate,Emergency Department (ED) Measures,8:46:34 am,9:35:27 am,9:44:41 am
+19159,Reid,53,female,insurance,Acute Myocardial Infarction (AMI),8:22:18 am,9:33:58 am,9:35:55 am
+9637,Hanson,72,male,medicare,Preventative Care Measures,10:44:15 am,10:50:20 am,10:55:32 am
+93234,Le,24,unidentified,medicare,Emergency Department (ED) Measures,8:44:16 am,10:29:24 am,10:29:34 am
+7834,Mccoy,45,unidentified,corporate,Acute Myocardial Infarction (AMI),6:26:39 pm,6:51:13 pm,6:58:21 pm
+6710,Garrett,33,unidentified,insurance,Acute Myocardial Infarction (AMI),11:16:16 am,11:42:42 am,11:44:43 am
+89049,Burton,22,male,medicare,Acute Myocardial Infarction (AMI),3:45:09 pm,4:09:03 pm,4:10:26 pm
+59458,Fuller,44,unidentified,HMO,Emergency Department (ED) Measures,8:06:17 am,8:54:07 am,9:01:27 am
+84783,Wang,74,female,corporate,Emergency Department (ED) Measures,12:04:58 pm,12:10:32 pm,12:10:33 pm
+63860,Weber,24,female,HMO,Emergency Department (ED) Measures,6:40:57 pm,7:33:20 pm,7:35:08 pm
+53597,Welch,23,unidentified,HMO,Acute Myocardial Infarction (AMI),6:38:00 pm,8:20:13 pm,9:19:34 pm
+26478,Rojas,35,unidentified,insurance,Acute Myocardial Infarction (AMI),7:58:24 pm,8:05:22 pm,8:18:28 pm
+76776,Lucas,73,male,insurance,Acute Myocardial Infarction (AMI),11:03:30 am,11:34:05 am,11:39:54 am
+40408,Marquez,34,unidentified,insurance,Acute Myocardial Infarction (AMI),9:32:33 am,10:23:59 am,10:24:03 am
+53730,Fields,32,female,insurance,Blood clot prevention and treatment,3:58:14 pm,4:30:04 pm,4:31:52 pm
+53149,Park,52,unidentified,insurance,Acute Myocardial Infarction (AMI),9:04:52 pm,10:11:49 pm,10:11:52 pm
+84147,Yang,70,unidentified,HMO,Emergency Department (ED) Measures,10:05:06 am,10:31:57 am,3:38:49 pm
+43088,Little,62,female,HMO,Emergency Department (ED) Measures,4:24:30 pm,4:51:19 pm,4:52:17 pm
+89788,Banks,31,male,insurance,Acute Myocardial Infarction (AMI),8:31:42 am,8:51:48 am,9:09:38 am
+39216,Padilla,38,female,insurance,Acute Myocardial Infarction (AMI),3:34:22 pm,4:56:10 pm,4:56:12 pm
+59839,Day,20,male,HMO,Acute Myocardial Infarction (AMI),9:24:55 am,12:17:21 pm,12:19:47 pm
+36426,Walsh,73,female,HMO,Acute Myocardial Infarction (AMI),10:05:11 am,10:18:10 am,10:22:27 am
+6752,Bowman,29,male,insurance,Emergency Department (ED) Measures,11:21:20 am,11:51:26 am,11:57:56 am
+3347,Schultz,70,unidentified,HMO,Acute Myocardial Infarction (AMI),9:49:26 am,1:12:21 pm,1:57:45 pm
+91478,Luna,65,male,insurance,Acute Myocardial Infarction (AMI),7:50:50 pm,8:29:36 pm,8:32:10 pm
+92323,Fowler,74,unidentified,HMO,Emergency Department (ED) Measures,3:50:16 pm,4:18:16 pm,4:20:04 pm
+61246,Mejia,31,male,insurance,Acute Myocardial Infarction (AMI),9:37:56 am,10:10:03 am,10:36:04 am
+23484,Davidson,30,unidentified,HMO,Preventative Care Measures,4:08:52 pm,5:01:14 pm,5:06:28 pm
+84154,Acosta,60,male,insurance,Acute Myocardial Infarction (AMI),8:10:01 am,10:35:23 am,10:35:26 am
+5080,Brewer,36,male,medicare,Emergency Department (ED) Measures,8:56:45 am,9:12:32 am,9:16:49 am
+53139,May,37,unidentified,corporate,Emergency Department (ED) Measures,11:08:50 am,12:02:04 pm,12:15:09 pm
+74224,Holland,48,female,insurance,Emergency Department (ED) Measures,3:57:33 pm,4:06:43 pm,4:12:22 pm
+60921,Juarez,48,male,corporate,Acute Myocardial Infarction (AMI),2:13:50 pm,3:03:17 pm,3:08:51 pm
+11609,Newman,30,unidentified,medicare,Emergency Department (ED) Measures,7:16:11 pm,8:59:35 pm,9:01:43 pm
+87083,Pearson,31,male,medicare,Acute Myocardial Infarction (AMI),9:42:27 am,1:32:50 pm,1:41:04 pm
+97352,Curtis,39,female,corporate,Emergency Department (ED) Measures,8:45:09 am,9:04:34 am,9:05:22 am
+26849,Cortez,49,female,HMO,Blood clot prevention and treatment,9:24:30 am,10:02:04 am,10:05:19 am
+11016,Douglas,15,unidentified,insurance,Acute Myocardial Infarction (AMI),7:47:01 pm,7:57:02 pm,8:02:33 pm
+54881,Schneider,34,unidentified,medicare,Acute Myocardial Infarction (AMI),9:12:47 am,9:46:01 am,10:01:52 am
+92619,Joseph,73,male,medicare,Acute Myocardial Infarction (AMI),4:17:48 pm,4:50:22 pm,4:52:56 pm
+37668,Barrett,19,unidentified,HMO,Emergency Department (ED) Measures,1:28:39 pm,1:57:47 pm,2:01:06 pm
+75247,Navarro,18,female,HMO,Acute Myocardial Infarction (AMI),2:12:50 pm,2:32:53 pm,2:34:58 pm
+6973,Figueroa,26,male,HMO,Emergency Department (ED) Measures,10:12:12 am,10:47:39 am,10:49:04 am
+7183,Keller,32,female,insurance,Emergency Department (ED) Measures,2:15:47 pm,2:35:26 pm,2:37:13 pm
+85016,Avila,19,female,insurance,Emergency Department (ED) Measures,7:17:41 pm,7:35:09 pm,7:35:11 pm
+15884,Wade,23,female,insurance,Emergency Department (ED) Measures,9:37:14 am,10:35:59 am,10:36:25 am
+44160,Molina,32,male,HMO,Emergency Department (ED) Measures,9:44:53 am,9:50:46 am,9:56:28 am
+92921,Stanley,59,female,insurance,Blood clot prevention and treatment,3:17:41 pm,3:19:13 pm,3:24:21 pm
+53062,Hopkins,53,male,HMO,Emergency Department (ED) Measures,3:36:45 pm,3:43:22 pm,3:49:53 pm
+45063,Campos,40,unidentified,HMO,Acute Myocardial Infarction (AMI),4:16:44 pm,5:38:50 pm,5:43:42 pm
+7038,Barnett,72,unidentified,insurance,Emergency Department (ED) Measures,8:48:39 am,9:48:48 am,9:54:24 am
+19157,Bates,56,unidentified,HMO,Emergency Department (ED) Measures,8:36:40 am,1:24:27 pm,10:09:22 am
+40786,Chambers,19,male,HMO,Acute Myocardial Infarction (AMI),8:30:13 pm,8:58:34 pm,8:58:45 pm
+24039,Caldwell,64,unidentified,insurance,Acute Myocardial Infarction (AMI),12:33:35 pm,1:29:54 pm,1:30:40 pm
+32946,Beck,59,male,insurance,Acute Myocardial Infarction (AMI),9:41:31 am,10:19:03 am,10:21:45 am
+4388,Lambert,72,male,insurance,Acute Myocardial Infarction (AMI),9:34:58 am,10:06:33 am,10:08:27 am
+90307,Miranda,20,male,insurance,Acute Myocardial Infarction (AMI),9:18:47 am,9:47:04 am,10:08:43 am
+60992,Byrd,57,female,insurance,Emergency Department (ED) Measures,10:56:44 am,12:45:26 pm,12:48:24 pm
+40538,Craig,45,male,insurance,Acute Myocardial Infarction (AMI),5:23:15 pm,5:52:33 pm,5:52:36 pm
+3542,Ayala,47,unidentified,corporate,Emergency Department (ED) Measures,6:46:01 pm,7:44:56 pm,7:45:54 pm
+70820,Lowe,15,unidentified,insurance,Emergency Department (ED) Measures,2:17:09 pm,2:47:06 pm,2:47:14 pm
+9522,Frazier,66,unidentified,insurance,Blood clot prevention and treatment,2:24:39 pm,3:16:21 pm,3:40:42 pm
+8125,Powers,16,female,corporate,Acute Myocardial Infarction (AMI),9:39:15 am,9:57:28 am,10:00:32 am
+30998,Neal,59,male,insurance,Emergency Department (ED) Measures,9:49:33 am,11:04:47 am,11:05:15 am
+77413,Leonard,47,male,insurance,Emergency Department (ED) Measures,7:01:54 pm,8:06:25 pm,9:00:06 pm
+55103,Gregory,47,unidentified,HMO,Acute Myocardial Infarction (AMI),2:25:51 pm,2:37:14 pm,2:40:16 pm
+27276,Carrillo,61,female,insurance,Acute Myocardial Infarction (AMI),2:01:44 pm,2:16:01 pm,2:20:06 pm
+60703,Sutton,30,female,insurance,Acute Myocardial Infarction (AMI),10:14:48 am,11:22:01 am,11:22:09 am
+8641,Fleming,67,unidentified,medicare,Emergency Department (ED) Measures,9:35:46 am,10:01:05 am,10:07:16 am
+22284,Rhodes,21,male,insurance,Acute Myocardial Infarction (AMI),9:55:29 pm,10:29:45 pm,10:32:15 pm
+1075,Shelton,42,female,insurance,Acute Myocardial Infarction (AMI),1:47:37 pm,2:13:17 pm,2:13:22 pm
+90159,Schwartz,68,female,insurance,Emergency Department (ED) Measures,11:51:32 am,1:01:33 pm,1:03:31 pm
+86053,Norris,61,female,insurance,Emergency Department (ED) Measures,2:37:19 pm,3:14:33 pm,3:49:38 pm
+81968,Jennings,25,female,HMO,Acute Myocardial Infarction (AMI),11:07:56 am,11:29:25 am,1:00:28 pm
+9377,Watts,21,unidentified,HMO,Emergency Department (ED) Measures,11:56:52 am,12:12:06 pm,12:12:46 pm
+48729,Duran,21,unidentified,HMO,Acute Myocardial Infarction (AMI),9:11:55 am,10:56:49 am,11:06:15 am
+89205,Walters,25,female,medicare,Emergency Department (ED) Measures,8:52:04 am,9:17:52 am,10:45:32 am
+46765,Cohen,41,female,medicare,Acute Myocardial Infarction (AMI),8:43:35 am,9:19:06 am,9:19:28 am
+2946,Mcdaniel,51,unidentified,HMO,Acute Myocardial Infarction (AMI),9:01:13 am,9:20:55 am,9:25:29 am
+20373,Moran,47,female,HMO,Acute Myocardial Infarction (AMI),8:30:48 am,9:15:12 am,9:16:30 am
+47479,Parks,45,unidentified,insurance,Emergency Department (ED) Measures,9:26:26 am,9:33:00 am,10:04:55 am
+99743,Steele,31,male,medicare,Acute Myocardial Infarction (AMI),9:35:53 am,10:26:31 am,10:28:25 am
+68661,Vaughn,57,female,insurance,Acute Myocardial Infarction (AMI),11:43:13 am,11:52:58 am,11:57:28 am
+28568,Becker,18,female,insurance,Acute Myocardial Infarction (AMI),8:58:24 pm,9:28:56 pm,9:32:48 pm
+94046,Holt,43,unidentified,insurance,Acute Myocardial Infarction (AMI),8:36:36 am,9:14:07 am,9:38:34 am
+96186,Deleon,20,female,corporate,Preventative Care Measures,10:12:00 am,10:39:19 am,10:39:22 am
+90895,Barker,20,unidentified,insurance,Emergency Department (ED) Measures,12:02:26 pm,12:14:11 pm,12:19:12 pm
+84350,Terry,45,male,insurance,Preventative Care Measures,11:37:58 am,12:37:55 pm,12:43:58 pm
+48480,Hale,25,male,insurance,Emergency Department (ED) Measures,8:11:09 pm,8:22:52 pm,8:25:48 pm
+69923,Leon,27,female,insurance,Acute Myocardial Infarction (AMI),2:48:57 pm,3:52:00 pm,3:55:26 pm
+3660,Hail,66,unidentified,medicare,Emergency Department (ED) Measures,9:05:42 am,11:12:30 am,11:19:08 am
+60101,Benson,38,unidentified,medicare,Acute Myocardial Infarction (AMI),11:21:46 am,11:41:47 am,11:43:04 am
+18896,Haynes,15,female,HMO,Blood clot prevention and treatment,7:40:08 pm,8:06:18 pm,8:10:06 pm
+24094,Horton,30,unidentified,HMO,Acute Myocardial Infarction (AMI),3:46:30 pm,3:59:24 pm,4:02:47 pm
+26473,Miles,15,female,medicare,Acute Myocardial Infarction (AMI),2:28:53 pm,2:57:32 pm,3:03:15 pm
+51642,Lyons,57,female,insurance,Emergency Department (ED) Measures,8:49:16 am,11:25:37 am,11:25:41 am
+84199,Pham,15,unidentified,corporate,Preventative Care Measures,7:20:06 pm,8:08:13 pm,8:08:15 pm
+36541,Graves,20,unidentified,insurance,Emergency Department (ED) Measures,6:56:15 pm,7:36:49 pm,7:36:54 pm
+70915,Bush,26,male,insurance,Preventative Care Measures,11:24:46 am,11:38:26 am,11:43:40 am
+25914,Thornton,34,male,corporate,Emergency Department (ED) Measures,1:09:02 pm,1:20:12 pm,1:20:15 pm
+57325,Wolfe,64,female,HMO,Acute Myocardial Infarction (AMI),9:21:21 am,9:36:02 am,9:44:13 am
+48361,Warner,44,female,HMO,Preventative Care Measures,7:50:55 pm,8:07:08 pm,8:07:41 pm
+10573,Cabrera,32,unidentified,corporate,Acute Myocardial Infarction (AMI),8:03:50 am,8:59:41 am,9:04:52 am
+30494,Mckinney,66,male,insurance,Acute Myocardial Infarction (AMI),8:46:56 pm,9:51:52 pm,9:55:58 pm
+89423,Mann,34,male,HMO,Acute Myocardial Infarction (AMI),12:21:23 pm,1:25:14 pm,1:26:58 pm
+90319,Zimmerman,38,male,insurance,Emergency Department (ED) Measures,2:29:49 pm,3:31:48 pm,3:38:29 pm
+68925,Dawson,39,male,insurance,Blood clot prevention and treatment,6:19:41 pm,6:57:48 pm,7:03:11 pm
+72802,Lara,73,unidentified,insurance,Acute Myocardial Infarction (AMI),11:36:08 am,11:52:38 am,11:52:40 am
+9427,Fletcher,48,unidentified,HMO,Blood clot prevention and treatment,12:30:30 pm,1:05:26 pm,1:58:12 pm
+12317,Page,27,male,HMO,Acute Myocardial Infarction (AMI),3:33:28 pm,3:41:44 pm,3:45:14 pm
+68142,Mccarthy,54,unidentified,HMO,Emergency Department (ED) Measures,11:44:13 am,11:53:03 am,12:07:04 pm
+34298,Love,35,unidentified,HMO,Emergency Department (ED) Measures,2:44:14 pm,2:59:24 pm,3:02:50 pm
+95922,Robles,38,female,medicare,Acute Myocardial Infarction (AMI),7:37:47 pm,9:31:05 pm,9:42:31 pm
+27568,Cervantes,50,unidentified,medicare,Emergency Department (ED) Measures,12:19:20 pm,12:25:56 pm,12:26:40 pm
+946,Solis,75,female,HMO,Acute Myocardial Infarction (AMI),10:36:26 am,11:06:35 am,11:06:52 am
+80837,Erickson,19,female,corporate,Acute Myocardial Infarction (AMI),9:20:08 am,10:47:55 am,10:48:43 am
+37565,Reeves,30,male,HMO,Acute Myocardial Infarction (AMI),8:30:59 am,9:11:03 am,9:23:23 am
+51081,Chang,59,male,HMO,Preventative Care Measures,9:58:46 am,10:19:01 am,10:29:56 am
+81973,Klein,56,unidentified,insurance,Emergency Department (ED) Measures,3:43:50 pm,3:59:27 pm,3:59:29 pm
+83768,Salinas,44,unidentified,insurance,Blood clot prevention and treatment,7:44:37 pm,7:48:08 pm,7:56:44 pm
+14476,Fuentes,61,unidentified,HMO,Acute Myocardial Infarction (AMI),9:34:40 am,10:05:48 am,10:11:33 am
+31514,Baldwin,58,male,HMO,Emergency Department (ED) Measures,10:46:46 am,12:05:07 pm,12:05:52 pm
+31134,Daniel,43,male,HMO,Acute Myocardial Infarction (AMI),10:11:18 am,10:53:40 am,10:54:25 am
+58622,Simon,28,unidentified,insurance,Emergency Department (ED) Measures,12:00:22 pm,12:51:57 pm,12:54:34 pm
+26517,Velasquez,75,unidentified,medicare,Acute Myocardial Infarction (AMI),9:36:36 am,10:43:51 am,11:35:37 am
+15967,Hardy,46,unidentified,insurance,Blood clot prevention and treatment,8:53:20 am,9:34:42 am,9:34:43 am
+22773,Higgins,68,female,insurance,Acute Myocardial Infarction (AMI),3:00:09 pm,4:24:15 pm,4:24:17 pm
+32342,Aguirre,49,male,insurance,Emergency Department (ED) Measures,10:03:58 am,11:04:46 am,11:05:57 am
+93522,Lin,67,unidentified,medicare,Acute Myocardial Infarction (AMI),3:29:35 pm,3:59:34 pm,4:08:16 pm
+97310,Cummings,46,unidentified,HMO,Emergency Department (ED) Measures,2:26:29 pm,2:39:38 pm,2:40:38 pm
+85507,Chandler,66,male,HMO,Preventative Care Measures,9:04:09 am,11:12:17 am,11:13:13 am
+50309,Sharp,44,unidentified,HMO,Emergency Department (ED) Measures,3:20:40 pm,4:28:27 pm,4:32:02 pm
+25148,Barber,51,unidentified,HMO,Acute Myocardial Infarction (AMI),8:08:39 am,8:55:45 am,9:03:02 am
+8024,Bowen,44,male,HMO,Acute Myocardial Infarction (AMI),11:31:47 am,11:47:55 am,11:58:09 am
+56385,Ochoa,16,unidentified,insurance,Emergency Department (ED) Measures,2:11:14 pm,3:00:54 pm,3:00:57 pm
+82519,Dennis,47,unidentified,HMO,Acute Myocardial Infarction (AMI),11:41:57 am,1:33:49 pm,1:34:07 pm
+27831,Robbins,31,female,corporate,Preventative Care Measures,6:01:16 pm,6:18:42 pm,6:26:26 pm
+34038,Liu,21,unidentified,insurance,Emergency Department (ED) Measures,9:39:03 am,10:52:07 am,10:55:02 am
+51837,Ramsey,56,unidentified,corporate,Emergency Department (ED) Measures,9:22:24 am,10:32:26 am,10:32:45 am
+7995,Francis,31,male,insurance,Acute Myocardial Infarction (AMI),3:19:31 pm,5:01:56 pm,5:01:58 pm
+47929,Griffith,24,female,insurance,Emergency Department (ED) Measures,8:05:04 am,10:15:21 am,10:15:26 am
+26789,Paul,24,female,insurance,Emergency Department (ED) Measures,6:34:00 pm,7:13:46 pm,7:19:25 pm
+23955,Blair,75,female,insurance,Acute Myocardial Infarction (AMI),9:01:26 am,9:51:01 am,9:53:10 am
+88624,Oconnor,65,unidentified,insurance,Emergency Department (ED) Measures,2:51:43 pm,3:43:42 pm,3:43:52 pm
+32904,Cardenas,57,male,insurance,Emergency Department (ED) Measures,8:54:58 am,9:13:45 am,9:17:01 am
+18822,Pacheco,36,male,HMO,Acute Myocardial Infarction (AMI),8:45:07 am,9:42:05 am,9:43:57 am
+90596,Cross,30,unidentified,insurance,Preventative Care Measures,11:55:21 am,12:57:59 pm,12:58:13 pm
+21816,Calderon,46,female,HMO,Emergency Department (ED) Measures,2:37:55 pm,3:01:35 pm,3:11:26 pm
+94599,Quinn,22,unidentified,corporate,Acute Myocardial Infarction (AMI),6:01:14 pm,7:00:07 pm,7:06:30 pm
+30353,Moss,41,female,HMO,Blood clot prevention and treatment,11:16:02 am,11:45:17 am,11:45:51 am
+89536,Swanson,29,unidentified,HMO,Emergency Department (ED) Measures,8:39:24 am,9:15:56 am,9:19:44 am
+39989,Chan,52,unidentified,HMO,Preventative Care Measures,8:26:20 am,8:41:00 am,8:41:34 am
+34019,Rivas,52,female,corporate,Emergency Department (ED) Measures,3:20:31 pm,3:32:42 pm,3:32:44 pm
+82285,Khan,51,unidentified,insurance,Emergency Department (ED) Measures,8:48:47 am,9:15:48 am,9:34:12 am
+38016,Rodgers,66,male,insurance,Emergency Department (ED) Measures,11:20:02 am,11:34:06 am,11:39:07 am
+2148,Serrano,45,female,HMO,Preventative Care Measures,9:39:47 am,9:52:35 am,9:56:18 am
+29424,Fitzgerald,56,female,insurance,Emergency Department (ED) Measures,3:34:42 pm,3:53:21 pm,4:08:33 pm
+675,Rosales,38,male,insurance,Emergency Department (ED) Measures,6:41:25 pm,9:18:37 pm,9:18:40 pm
+7598,Stevenson,73,female,insurance,Blood clot prevention and treatment,9:33:42 am,10:18:33 am,10:18:36 am
+65622,Christensen,55,male,insurance,Emergency Department (ED) Measures,8:03:02 am,8:24:03 am,8:24:05 am
+65890,Manning,59,unidentified,medicare,Acute Myocardial Infarction (AMI),9:42:37 am,11:39:34 am,11:41:45 am
+30118,Gill,62,female,corporate,Preventative Care Measures,8:35:24 am,8:57:59 am,9:04:52 am
+54781,Curry,64,unidentified,insurance,Emergency Department (ED) Measures,7:10:16 pm,7:17:56 pm,7:32:41 pm
+49173,Mclaughlin,27,male,medicare,Emergency Department (ED) Measures,8:25:08 am,9:43:13 am,10:16:35 am
+1761,Harmon,23,male,insurance,Acute Myocardial Infarction (AMI),11:26:09 am,11:37:10 am,11:39:42 am
+51365,Mcgee,37,male,insurance,Emergency Department (ED) Measures,11:52:10 am,12:01:48 pm,12:15:19 pm
+15403,Gross,55,unidentified,insurance,Acute Myocardial Infarction (AMI),9:28:15 am,10:46:10 am,10:46:12 am
+12462,Doyle,53,unidentified,HMO,Blood clot prevention and treatment,7:31:58 pm,8:30:17 pm,8:32:50 pm
+97673,Garner,73,unidentified,insurance,Emergency Department (ED) Measures,6:04:09 pm,6:48:41 pm,6:49:48 pm
+40700,Newton,20,female,insurance,Emergency Department (ED) Measures,2:27:48 pm,3:34:43 pm,3:51:38 pm
+91978,Burgess,67,female,insurance,Emergency Department (ED) Measures,8:48:01 am,9:41:03 am,9:48:25 am
+94522,Reese,52,unidentified,insurance,Emergency Department (ED) Measures,11:31:51 am,1:15:47 pm,1:15:52 pm
+36066,Walton,34,unidentified,insurance,Emergency Department (ED) Measures,11:15:02 am,12:24:36 pm,12:28:28 pm
+75858,Blake,17,unidentified,insurance,Acute Myocardial Infarction (AMI),8:38:54 am,9:04:46 am,9:11:06 am
+82690,Trujillo,72,male,HMO,Emergency Department (ED) Measures,11:00:21 am,11:07:41 am,11:09:45 am
+18034,Adkins,20,unidentified,HMO,Acute Myocardial Infarction (AMI),7:28:55 pm,8:48:41 pm,8:50:06 pm
+80566,Brady,63,female,HMO,Emergency Department (ED) Measures,6:07:11 pm,6:54:11 pm,7:00:42 pm
+15178,Goodman,73,female,insurance,Blood clot prevention and treatment,9:22:17 am,9:41:51 am,9:43:00 am
+43610,Roman,46,female,insurance,Acute Myocardial Infarction (AMI),9:01:41 pm,9:09:18 pm,9:17:36 pm
+86635,Webster,26,unidentified,insurance,Emergency Department (ED) Measures,9:10:36 am,9:46:55 am,9:46:56 am
+95924,Goodwin,43,female,insurance,Blood clot prevention and treatment,8:32:56 am,8:55:13 am,8:55:16 am
+9468,Fischer,67,unidentified,insurance,Acute Myocardial Infarction (AMI),9:22:25 am,9:41:07 am,9:41:10 am
+77175,Huang,56,female,HMO,Emergency Department (ED) Measures,11:07:54 am,11:44:15 am,11:46:36 am
+46698,Potter,72,unidentified,insurance,Emergency Department (ED) Measures,12:12:11 pm,1:23:41 pm,2:02:30 pm
+31294,Delacruz,17,unidentified,HMO,Acute Myocardial Infarction (AMI),6:55:06 pm,8:33:18 pm,8:34:53 pm
+20435,Montoya,30,male,corporate,Emergency Department (ED) Measures,8:36:22 am,8:58:41 am,9:02:12 am
+97560,Todd,58,unidentified,HMO,Emergency Department (ED) Measures,2:14:27 pm,2:33:10 pm,2:37:01 pm
+91193,Wu,21,female,HMO,Acute Myocardial Infarction (AMI),3:48:15 pm,5:00:34 pm,4:41:01 pm
+53713,Hines,72,female,HMO,Emergency Department (ED) Measures,3:54:46 pm,4:04:37 pm,4:10:33 pm
+47609,Mullins,71,male,corporate,Emergency Department (ED) Measures,10:03:03 am,11:03:14 am,11:07:36 am
+66854,Castaneda,71,male,corporate,Acute Myocardial Infarction (AMI),9:59:45 am,10:28:18 am,10:58:35 am
+27771,Malone,56,male,corporate,Acute Myocardial Infarction (AMI),11:21:12 am,12:48:54 pm,1:03:31 pm
+82900,Cannon,44,unidentified,corporate,Acute Myocardial Infarction (AMI),11:22:51 am,12:54:31 pm,1:03:15 pm
+78891,Tate,70,unidentified,HMO,Emergency Department (ED) Measures,11:11:25 am,11:43:49 am,11:49:46 am
+61290,Mack,41,female,insurance,Acute Myocardial Infarction (AMI),11:02:52 am,11:16:32 am,11:18:44 am
+79285,Sherman,23,female,insurance,Emergency Department (ED) Measures,11:40:52 am,12:30:37 pm,12:30:39 pm
+40632,Hubbard,62,male,insurance,Acute Myocardial Infarction (AMI),11:17:24 am,12:30:46 pm,12:35:26 pm
+22924,Hodges,30,unidentified,insurance,Emergency Department (ED) Measures,2:19:55 pm,2:41:17 pm,2:54:54 pm
+68547,Zhang,33,unidentified,corporate,Acute Myocardial Infarction (AMI),2:24:25 pm,3:36:03 pm,4:05:35 pm
+90673,Guerra,55,unidentified,insurance,Emergency Department (ED) Measures,11:28:30 am,11:56:33 am,12:00:18 pm
+86350,Wolf,60,male,HMO,Acute Myocardial Infarction (AMI),9:26:03 am,11:29:56 am,11:31:06 am
+15926,Valencia,44,female,HMO,Preventative Care Measures,9:04:15 am,9:40:06 am,9:40:07 am
+41503,Saunders,54,female,HMO,Acute Myocardial Infarction (AMI),9:02:23 am,10:00:55 am,10:06:09 am
+2680,Franco,60,male,HMO,Acute Myocardial Infarction (AMI),9:53:56 am,5:31:39 pm,12:39:51 pm
+61191,Rowe,38,female,insurance,Acute Myocardial Infarction (AMI),8:47:37 am,1:01:56 pm,1:01:59 pm
+23627,Gallagher,49,male,corporate,Emergency Department (ED) Measures,6:37:23 pm,6:44:34 pm,6:45:48 pm
+75486,Farmer,15,unidentified,medicare,Blood clot prevention and treatment,11:24:38 am,11:50:33 am,11:51:35 am
+2258,Hammond,40,male,corporate,Emergency Department (ED) Measures,10:25:54 am,1:16:52 pm,1:16:55 pm
+996,Hampton,56,unidentified,insurance,Acute Myocardial Infarction (AMI),2:47:14 pm,3:00:23 pm,3:00:26 pm
+24758,Townsend,31,female,insurance,Emergency Department (ED) Measures,9:10:59 am,9:54:23 am,11:10:38 am
+8394,Ingram,22,unidentified,HMO,Blood clot prevention and treatment,12:21:57 pm,1:12:16 pm,1:15:27 pm
+38749,Wise,52,female,HMO,Emergency Department (ED) Measures,7:38:44 pm,7:50:58 pm,7:52:56 pm
+90084,Gallegos,43,female,medicare,Acute Myocardial Infarction (AMI),10:11:06 am,10:40:31 am,10:46:37 am
+68993,Clarke,44,female,HMO,Emergency Department (ED) Measures,6:13:14 pm,7:35:13 pm,7:40:49 pm
+86482,Barton,18,male,insurance,Emergency Department (ED) Measures,11:34:23 am,12:53:15 pm,12:57:18 pm
+37485,Schroeder,63,unidentified,insurance,Acute Myocardial Infarction (AMI),2:11:50 pm,2:19:44 pm,2:28:19 pm
+91062,Maxwell,49,unidentified,insurance,Emergency Department (ED) Measures,3:09:08 pm,4:33:07 pm,4:36:45 pm
+82656,Waters,53,unidentified,insurance,Emergency Department (ED) Measures,8:21:33 am,8:34:41 am,8:47:24 am
+5459,Logan,39,male,HMO,Emergency Department (ED) Measures,9:06:48 am,11:10:56 am,11:13:35 am
+39413,Camacho,19,unidentified,insurance,Blood clot prevention and treatment,8:47:17 am,9:06:54 am,9:27:16 am
+30134,Strickland,65,unidentified,insurance,Emergency Department (ED) Measures,7:34:12 pm,7:49:29 pm,8:00:26 pm
+19795,Norman,35,female,HMO,Emergency Department (ED) Measures,6:39:25 pm,6:57:55 pm,6:58:55 pm
+28245,Person,20,male,insurance,Emergency Department (ED) Measures,10:24:03 am,11:47:16 am,11:47:36 am
+11291,Colon,44,female,corporate,Emergency Department (ED) Measures,9:50:01 am,10:41:58 am,10:48:59 am
+65265,Parsons,63,female,HMO,Emergency Department (ED) Measures,10:04:32 am,11:06:16 am,11:18:11 am
+91057,Frank,16,male,HMO,Emergency Department (ED) Measures,3:32:59 pm,4:13:22 pm,4:13:46 pm
+73617,Harrington,33,female,corporate,Acute Myocardial Infarction (AMI),12:33:52 pm,12:45:55 pm,12:46:37 pm
+88137,Glover,68,female,medicare,Emergency Department (ED) Measures,10:36:05 am,11:44:31 am,11:49:43 am
+49353,Osborne,52,unidentified,insurance,Acute Myocardial Infarction (AMI),1:03:51 pm,1:24:49 pm,1:24:56 pm
+22643,Buchanan,43,female,insurance,Preventative Care Measures,3:19:37 pm,4:31:07 pm,4:32:02 pm
+82671,Casey,58,female,insurance,Emergency Department (ED) Measures,8:40:11 am,9:16:36 am,9:19:27 am
+85949,Floyd,67,unidentified,insurance,Emergency Department (ED) Measures,9:58:55 am,10:43:10 am,10:43:15 am
+79106,Patton,44,male,corporate,Acute Myocardial Infarction (AMI),8:43:38 am,10:56:01 am,10:57:20 am
+61353,Ibarra,38,male,insurance,Emergency Department (ED) Measures,9:16:00 am,9:48:53 am,10:02:50 am
+490,Ball,60,male,insurance,Acute Myocardial Infarction (AMI),7:55:00 pm,8:08:45 pm,8:11:26 pm
+29756,Tyler,23,male,insurance,Acute Myocardial Infarction (AMI),8:50:52 am,9:09:29 am,12:23:30 pm
+10027,Suarez,19,unidentified,corporate,Emergency Department (ED) Measures,11:40:21 am,12:17:05 pm,12:18:41 pm
+19688,Bowers,32,male,HMO,Emergency Department (ED) Measures,6:33:03 pm,7:26:21 pm,7:33:20 pm
+78371,Orozco,72,female,medicare,Emergency Department (ED) Measures,10:19:57 am,11:29:57 am,11:48:16 am
+96964,Salas,21,female,insurance,Blood clot prevention and treatment,8:33:57 am,8:46:13 am,8:46:48 am
+56544,Cobb,45,male,insurance,Emergency Department (ED) Measures,10:22:56 am,10:52:48 am,10:52:52 am
+69069,Gibbs,29,unidentified,insurance,Emergency Department (ED) Measures,7:19:26 pm,7:27:42 pm,7:33:47 pm
+59861,Andrade,74,female,insurance,Emergency Department (ED) Measures,9:47:39 am,10:16:39 am,10:16:41 am
+28792,Bauer,17,female,HMO,Acute Myocardial Infarction (AMI),8:47:52 am,9:44:09 am,9:45:39 am
+99678,Conner,65,male,insurance,Emergency Department (ED) Measures,11:33:28 am,11:54:37 am,11:59:59 am
+86416,Moody,41,female,insurance,Emergency Department (ED) Measures,8:37:22 pm,8:50:06 pm,8:55:18 pm
+57636,Escobar,42,female,insurance,Acute Myocardial Infarction (AMI),11:14:45 am,11:38:42 am,11:43:25 am
+6893,Mcguire,72,female,HMO,Emergency Department (ED) Measures,9:06:27 am,10:24:47 am,10:24:52 am
+18652,Lloyd,74,female,HMO,Acute Myocardial Infarction (AMI),9:04:41 am,9:23:51 am,9:24:54 am
+28216,Mueller,33,unidentified,HMO,Acute Myocardial Infarction (AMI),2:36:03 pm,3:07:36 pm,3:13:11 pm
+61411,Hartman,25,unidentified,HMO,Emergency Department (ED) Measures,6:03:17 pm,7:24:49 pm,7:26:05 pm
+88145,French,31,female,medicare,Acute Myocardial Infarction (AMI),10:51:52 am,11:17:02 am,11:45:51 am
+35195,Kramer,54,unidentified,medicare,Emergency Department (ED) Measures,5:28:46 pm,5:53:21 pm,5:55:28 pm
+89257,Mcbride,53,female,HMO,Acute Myocardial Infarction (AMI),9:07:13 am,10:02:09 am,10:04:55 am
+68732,Pope,42,unidentified,HMO,Acute Myocardial Infarction (AMI),9:44:39 am,10:16:18 am,10:18:16 am
+17664,Lindsey,16,female,insurance,Emergency Department (ED) Measures,12:30:30 pm,1:27:02 pm,1:30:51 pm
+48481,Velazquez,39,unidentified,insurance,Emergency Department (ED) Measures,12:27:00 pm,12:36:56 pm,12:39:01 pm
+83898,Norton,62,female,insurance,Emergency Department (ED) Measures,9:53:46 am,10:15:35 am,11:03:55 am
+41809,Mccormick,53,male,insurance,Acute Myocardial Infarction (AMI),8:51:05 am,9:57:13 am,10:02:45 am
+45067,Sparks,44,unidentified,insurance,Emergency Department (ED) Measures,10:05:06 am,10:59:10 am,10:44:59 am
+92339,Flynn,32,unidentified,medicare,Preventative Care Measures,8:31:25 am,9:12:49 am,9:16:54 am
+53840,Yates,56,unidentified,HMO,Acute Myocardial Infarction (AMI),8:37:11 am,9:05:12 am,9:08:14 am
+88282,Hogan,50,male,insurance,Acute Myocardial Infarction (AMI),12:08:52 pm,12:30:48 pm,12:41:15 pm
+96492,Marsh,49,male,corporate,Preventative Care Measures,11:25:57 am,12:12:36 pm,12:25:35 pm
+24891,Macias,26,unidentified,HMO,Emergency Department (ED) Measures,9:34:52 am,10:22:38 am,10:29:20 am
+26218,Villanueva,25,male,insurance,Emergency Department (ED) Measures,8:52:19 am,9:46:50 am,10:32:54 am
+71509,Zamora,25,unidentified,HMO,Emergency Department (ED) Measures,8:31:05 am,8:53:18 am,8:57:53 am
+83397,Pratt,21,unidentified,insurance,Emergency Department (ED) Measures,12:06:02 pm,1:28:15 pm,1:55:43 pm
+68810,Stokes,56,unidentified,corporate,Emergency Department (ED) Measures,2:36:35 pm,3:55:43 pm,4:09:23 pm
+36512,Owen,30,female,insurance,Emergency Department (ED) Measures,9:18:05 am,10:17:46 am,10:22:57 am
+67748,Ballard,59,female,HMO,Emergency Department (ED) Measures,11:12:57 am,12:04:30 pm,12:08:50 pm
+98717,Lang,27,female,insurance,Emergency Department (ED) Measures,8:39:15 am,11:38:55 am,11:38:56 am
+13103,Brock,24,female,corporate,Emergency Department (ED) Measures,8:26:17 pm,9:00:55 pm,9:03:02 pm
+18283,Villarreal,36,female,HMO,Acute Myocardial Infarction (AMI),10:54:43 am,1:23:52 pm,1:58:03 pm
+52691,Charles,22,male,insurance,Emergency Department (ED) Measures,3:36:04 pm,5:05:42 pm,5:05:49 pm
+62130,Drake,69,male,corporate,Emergency Department (ED) Measures,7:39:49 pm,8:19:06 pm,8:19:07 pm
+19714,Barrera,54,male,HMO,Acute Myocardial Infarction (AMI),6:19:40 pm,7:43:45 pm,7:46:13 pm
+66197,Cain,57,female,HMO,Blood clot prevention and treatment,1:06:14 pm,1:24:27 pm,1:23:04 pm
+31677,Patrick,19,female,corporate,Acute Myocardial Infarction (AMI),11:53:00 am,12:51:39 pm,12:51:43 pm
+48888,Pineda,71,male,corporate,Acute Myocardial Infarction (AMI),8:33:12 am,9:22:26 am,9:31:48 am
+13374,Burnett,66,unidentified,insurance,Acute Myocardial Infarction (AMI),10:48:10 am,11:01:26 am,11:06:34 am
+95065,Mercado,56,male,medicare,Emergency Department (ED) Measures,8:50:02 am,9:36:46 am,9:39:27 am
+65889,Santana,20,female,HMO,Emergency Department (ED) Measures,2:03:40 pm,3:47:03 pm,4:16:41 pm
+30958,Shepherd,73,male,insurance,Blood clot prevention and treatment,7:56:28 pm,8:05:34 pm,8:12:01 pm
+21486,Bautista,37,male,insurance,Emergency Department (ED) Measures,11:33:58 am,12:27:29 pm,12:31:22 pm
+65058,Ali,30,male,insurance,Acute Myocardial Infarction (AMI),10:46:33 am,10:59:39 am,11:06:13 am
+3344,Shaffer,20,unidentified,HMO,Emergency Department (ED) Measures,3:05:55 pm,3:59:53 pm,3:59:54 pm
+29662,Lamb,19,unidentified,HMO,Emergency Department (ED) Measures,1:18:38 pm,1:32:45 pm,1:37:06 pm
+77792,Trevino,50,unidentified,insurance,Preventative Care Measures,11:08:42 am,11:26:01 am,11:27:09 am
+58546,Mckenzie,52,female,medicare,Acute Myocardial Infarction (AMI),11:53:37 am,12:02:34 pm,12:11:10 pm
+41400,Hess,48,male,insurance,Emergency Department (ED) Measures,10:01:17 pm,10:26:46 pm,10:27:27 pm
+57194,Beil,68,male,insurance,Emergency Department (ED) Measures,8:12:26 pm,8:40:23 pm,8:40:29 pm
+90808,Olsen,15,male,insurance,Preventative Care Measures,8:37:41 pm,8:45:59 pm,8:46:07 pm
+84588,Cochran,55,unidentified,insurance,Emergency Department (ED) Measures,10:06:49 am,10:49:50 am,10:51:21 am
+3914,Morton,31,unidentified,insurance,Emergency Department (ED) Measures,9:14:27 am,9:57:59 am,9:59:55 am
+88005,Nash,48,unidentified,insurance,Emergency Department (ED) Measures,7:53:25 am,8:29:46 am,8:49:16 am
+6973,Wilkins,55,female,HMO,Acute Myocardial Infarction (AMI),8:32:25 pm,8:50:20 pm,8:52:21 pm
+29303,Petersen,41,unidentified,HMO,Emergency Department (ED) Measures,9:38:53 am,10:16:46 am,10:24:14 am
+43867,Briggs,31,unidentified,insurance,Acute Myocardial Infarction (AMI),3:07:53 pm,4:23:08 pm,4:23:11 pm
+39056,Shah,26,unidentified,HMO,Blood clot prevention and treatment,4:59:25 pm,5:22:16 pm,6:05:42 pm
+25962,Roth,42,male,insurance,Emergency Department (ED) Measures,8:47:36 am,9:58:40 am,9:58:42 am
+99293,Nicholson,64,unidentified,insurance,Emergency Department (ED) Measures,9:57:40 am,10:13:47 am,10:25:58 am
+13789,Holloway,33,female,medicare,Emergency Department (ED) Measures,11:39:29 am,11:46:21 am,11:53:45 am
+65824,Lozano,16,male,HMO,Acute Myocardial Infarction (AMI),3:24:06 pm,3:29:15 pm,3:32:06 pm
+44155,Rangel,53,male,corporate,Emergency Department (ED) Measures,2:50:54 pm,3:42:59 pm,3:43:01 pm
+60511,Flowers,46,male,HMO,Emergency Department (ED) Measures,11:42:19 am,11:58:38 am,12:08:55 pm
+70652,Hoover,40,male,medicare,Emergency Department (ED) Measures,2:38:39 pm,3:07:59 pm,3:08:41 pm
+33266,Short,36,male,HMO,Emergency Department (ED) Measures,4:53:50 pm,4:59:50 pm,5:03:25 pm
+22201,Arias,66,female,corporate,Acute Myocardial Infarction (AMI),3:59:24 pm,4:05:28 pm,4:05:31 pm
+49337,Mora,57,unidentified,HMO,Blood clot prevention and treatment,2:00:35 pm,2:36:44 pm,2:41:09 pm
+65273,Valenzuela,36,female,insurance,Emergency Department (ED) Measures,10:53:55 am,11:55:10 am,11:55:12 am
+70870,Bryan,31,unidentified,HMO,Preventative Care Measures,3:24:02 pm,3:31:24 pm,4:34:49 pm
+82892,Meyers,54,female,HMO,Emergency Department (ED) Measures,8:27:02 pm,9:00:22 pm,9:06:14 pm
+38263,Weiss,19,female,insurance,Preventative Care Measures,7:45:14 pm,8:17:55 pm,8:18:29 pm
+63281,Underwood,73,unidentified,insurance,Blood clot prevention and treatment,2:22:31 pm,2:38:42 pm,2:43:00 pm
+10163,Bass,62,female,insurance,Emergency Department (ED) Measures,9:16:05 am,10:17:10 am,10:17:25 am
+94873,Greer,21,unidentified,insurance,Acute Myocardial Infarction (AMI),9:46:27 am,10:10:50 am,10:11:34 am
+86009,Summers,17,unidentified,insurance,Emergency Department (ED) Measures,8:28:18 pm,9:17:03 pm,9:18:12 pm
+94005,Houston,64,unidentified,insurance,Acute Myocardial Infarction (AMI),6:03:15 pm,8:00:16 pm,8:08:09 pm
+69149,Carson,35,female,insurance,Acute Myocardial Infarction (AMI),8:51:03 am,9:11:21 am,9:11:22 am
+18460,Morrow,57,unidentified,insurance,Emergency Department (ED) Measures,6:37:00 pm,7:32:11 pm,7:43:48 pm
+41862,Clayton,24,unidentified,HMO,Acute Myocardial Infarction (AMI),9:39:23 am,9:53:28 am,9:56:49 am
+90981,Whitaker,56,male,insurance,Emergency Department (ED) Measures,11:11:47 am,11:18:04 am,11:25:07 am
+40983,Decker,19,male,medicare,Emergency Department (ED) Measures,9:50:48 am,11:09:35 am,11:10:20 am
+88697,Yoder,51,female,insurance,Emergency Department (ED) Measures,7:18:39 pm,8:12:45 pm,8:32:47 pm
+15227,Collier,57,unidentified,insurance,Acute Myocardial Infarction (AMI),2:41:25 pm,3:00:16 pm,3:02:42 pm
+61811,Zuniga,23,unidentified,corporate,Emergency Department (ED) Measures,11:41:06 am,12:24:52 pm,12:26:56 pm
+44343,Carey,47,unidentified,insurance,Acute Myocardial Infarction (AMI),11:07:09 am,12:13:58 pm,12:14:55 pm
+37401,Wilcox,70,female,corporate,Emergency Department (ED) Measures,6:06:22 pm,6:46:26 pm,6:49:48 pm
+42037,Melendez,18,unidentified,medicare,Acute Myocardial Infarction (AMI),8:31:00 am,9:00:46 am,9:02:51 am
+15632,Poole,36,unidentified,medicare,Acute Myocardial Infarction (AMI),9:15:01 am,9:54:22 am,9:54:30 am
+59656,Roberson,23,male,medicare,Acute Myocardial Infarction (AMI),12:40:22 pm,12:57:48 pm,1:00:05 pm
+8903,Larsen,19,female,corporate,Emergency Department (ED) Measures,8:33:08 am,10:24:48 am,10:26:29 am
+51013,Conley,51,male,insurance,Acute Myocardial Infarction (AMI),4:23:15 pm,5:17:55 pm,5:17:59 pm
+7388,Davenport,16,male,insurance,Blood clot prevention and treatment,4:06:09 pm,4:39:39 pm,4:46:22 pm
+66937,Copeland,40,male,insurance,Acute Myocardial Infarction (AMI),3:31:20 pm,3:41:27 pm,3:45:19 pm
+51816,Massey,40,unidentified,insurance,Emergency Department (ED) Measures,11:27:38 am,12:07:01 pm,2:10:14 pm
+80277,Lam,34,unidentified,corporate,Acute Myocardial Infarction (AMI),8:31:24 am,11:32:53 am,11:33:31 am
+57159,Huff,60,male,HMO,Acute Myocardial Infarction (AMI),6:22:38 pm,6:55:25 pm,7:03:14 pm
+74578,Rocha,57,male,corporate,Preventative Care Measures,7:10:41 pm,7:21:26 pm,7:22:55 pm
+69637,Cameron,52,female,corporate,Acute Myocardial Infarction (AMI),3:44:37 pm,4:02:27 pm,4:14:24 pm
+90693,Jefferson,73,male,HMO,Emergency Department (ED) Measures,8:01:10 am,8:46:42 am,8:48:40 am
+61679,Hood,24,unidentified,HMO,Emergency Department (ED) Measures,2:57:29 pm,4:10:11 pm,4:16:06 pm
+36209,Monroe,37,female,corporate,Emergency Department (ED) Measures,11:27:04 am,11:53:50 am,11:59:50 am
+88378,Anthony,56,male,HMO,Emergency Department (ED) Measures,3:48:47 pm,4:17:57 pm,4:18:48 pm
+12037,Pittman,32,female,HMO,Acute Myocardial Infarction (AMI),8:41:52 am,9:41:53 am,9:41:56 am
+90691,Huynh,67,female,medicare,Acute Myocardial Infarction (AMI),9:12:35 pm,9:28:47 pm,9:35:46 pm
+64702,Randall,40,male,HMO,Emergency Department (ED) Measures,9:11:24 am,9:17:30 am,9:21:22 am
+23963,Singleton,75,unidentified,HMO,Emergency Department (ED) Measures,10:18:59 am,11:03:27 am,11:11:27 am
+24794,Kirk,62,unidentified,medicare,Emergency Department (ED) Measures,3:42:26 pm,3:47:57 pm,3:49:08 pm
+75727,Combs,73,female,HMO,Acute Myocardial Infarction (AMI),8:22:24 am,9:06:55 am,9:02:58 am
+8306,Mathis,68,unidentified,HMO,Acute Myocardial Infarction (AMI),9:56:34 am,10:58:32 am,10:28:32 am
+96813,Christian,56,unidentified,HMO,Emergency Department (ED) Measures,9:32:32 am,11:47:12 am,11:50:10 am
+87332,Skinner,70,female,HMO,Blood clot prevention and treatment,9:58:29 am,10:52:24 am,10:55:26 am
+34919,Bradford,41,unidentified,medicare,Acute Myocardial Infarction (AMI),8:34:11 am,9:38:55 am,2:49:25 pm
+44941,Richard,31,male,HMO,Preventative Care Measures,11:03:54 am,11:57:44 am,12:05:19 pm
+75251,Galvan,44,unidentified,corporate,Acute Myocardial Infarction (AMI),11:37:52 am,12:15:59 pm,12:17:24 pm
+64240,Wall,71,female,HMO,Emergency Department (ED) Measures,8:25:47 am,8:37:32 am,9:10:52 am
+60011,Boone,52,unidentified,HMO,Acute Myocardial Infarction (AMI),8:53:43 pm,9:23:55 pm,9:25:26 pm
+66017,Kirby,29,female,insurance,Emergency Department (ED) Measures,12:34:07 pm,1:16:44 pm,1:16:57 pm
+75344,Wilkinson,53,male,insurance,Emergency Department (ED) Measures,10:18:21 am,10:24:48 am,10:26:51 am
+27881,Bridges,54,female,HMO,Emergency Department (ED) Measures,10:09:42 am,10:32:59 am,10:35:08 am
+16065,Bruce,40,male,insurance,Emergency Department (ED) Measures,3:50:48 pm,4:11:39 pm,4:24:30 pm
+25778,Atkinson,20,male,corporate,Blood clot prevention and treatment,1:12:30 pm,1:26:10 pm,1:32:42 pm
+83563,Velez,20,male,HMO,Emergency Department (ED) Measures,3:50:59 pm,4:04:39 pm,4:04:58 pm
+44579,Meza,25,unidentified,HMO,Acute Myocardial Infarction (AMI),2:30:32 pm,2:39:03 pm,2:52:56 pm
+69268,Roy,63,unidentified,insurance,Acute Myocardial Infarction (AMI),11:19:12 am,12:15:30 pm,12:36:11 pm
+49073,Vincent,43,male,corporate,Acute Myocardial Infarction (AMI),12:17:42 pm,1:03:36 pm,1:05:04 pm
+30412,York,16,male,insurance,Acute Myocardial Infarction (AMI),12:09:30 pm,12:48:00 pm,1:02:13 pm
+60025,Hodge,36,male,HMO,Acute Myocardial Infarction (AMI),2:01:40 pm,3:30:27 pm,3:38:28 pm
+33076,Villa,73,male,HMO,Acute Myocardial Infarction (AMI),8:02:48 am,9:04:56 am,9:06:38 am
+21340,Abbott,23,female,insurance,Acute Myocardial Infarction (AMI),7:28:07 pm,7:43:04 pm,7:51:17 pm
+50809,Allison,71,female,HMO,Emergency Department (ED) Measures,11:34:30 am,12:27:47 pm,12:30:42 pm
+8372,Tapia,63,unidentified,medicare,Emergency Department (ED) Measures,9:49:09 am,10:10:58 am,10:16:56 am
+82215,Gates,71,male,HMO,Emergency Department (ED) Measures,9:58:26 am,11:24:28 am,11:24:33 am
+41930,Chase,15,female,corporate,Emergency Department (ED) Measures,6:57:02 pm,7:42:47 pm,7:42:49 pm
+86570,Sosa,18,male,HMO,Blood clot prevention and treatment,10:10:18 am,12:32:13 pm,12:32:54 pm
+20336,Sweeney,54,male,HMO,Emergency Department (ED) Measures,4:07:20 pm,5:00:37 pm,5:19:02 pm
+56212,Farrell,55,female,medicare,Emergency Department (ED) Measures,4:02:15 pm,4:12:30 pm,4:14:36 pm
+1649,Wyatt,63,unidentified,insurance,Emergency Department (ED) Measures,2:34:34 pm,3:55:58 pm,4:17:37 pm
+7619,Dalton,60,female,insurance,Blood clot prevention and treatment,10:28:26 am,10:52:10 am,10:54:19 am
+11801,Horn,72,unidentified,HMO,Emergency Department (ED) Measures,9:09:57 am,10:16:47 am,10:59:01 am
+17437,Barron,38,female,insurance,Acute Myocardial Infarction (AMI),10:46:02 am,10:49:36 am,10:49:40 am
+67971,Phelps,26,unidentified,HMO,Emergency Department (ED) Measures,6:13:01 pm,7:35:46 pm,7:43:00 pm
+13350,Yu,59,female,insurance,Acute Myocardial Infarction (AMI),1:09:36 pm,2:27:53 pm,2:27:56 pm
+68395,Dickerson,42,male,insurance,Emergency Department (ED) Measures,2:00:05 pm,2:22:44 pm,2:25:15 pm
+65505,Heath,29,male,HMO,Acute Myocardial Infarction (AMI),1:31:38 pm,2:21:24 pm,2:24:21 pm
+4547,Foley,30,unidentified,insurance,Emergency Department (ED) Measures,8:31:04 am,8:52:15 am,9:04:46 am
+61292,Atkins,32,male,HMO,Acute Myocardial Infarction (AMI),8:41:51 am,8:47:08 am,8:57:49 am
+29316,Mathews,40,female,HMO,Acute Myocardial Infarction (AMI),10:58:45 am,11:37:31 am,11:38:48 am
+11296,Bonilla,34,male,HMO,Acute Myocardial Infarction (AMI),8:41:06 am,9:13:51 am,9:15:08 am
+43829,Acevedo,61,male,medicare,Acute Myocardial Infarction (AMI),9:54:31 am,9:59:27 am,10:01:03 am
+69867,Benitez,59,female,corporate,Acute Myocardial Infarction (AMI),8:03:13 pm,8:42:20 pm,8:42:43 pm
+5707,Zavala,59,male,insurance,Acute Myocardial Infarction (AMI),7:55:54 pm,8:39:13 pm,8:41:33 pm
+57244,Hensley,60,unidentified,insurance,Acute Myocardial Infarction (AMI),8:44:32 am,10:03:25 am,10:06:10 am
+21482,Glenn,23,male,insurance,Preventative Care Measures,6:15:10 pm,7:25:22 pm,7:25:30 pm
+38330,Cisneros,53,male,insurance,Emergency Department (ED) Measures,9:57:11 am,10:25:35 am,10:25:37 am
+35975,Harrell,49,unidentified,insurance,Acute Myocardial Infarction (AMI),9:28:24 am,10:59:57 am,11:00:00 am
+39494,Shields,21,male,insurance,Preventative Care Measures,10:30:46 am,11:39:24 am,11:44:58 am
+58892,Rubio,22,male,insurance,Emergency Department (ED) Measures,6:56:09 pm,7:32:09 pm,7:32:11 pm
+78320,Huffman,47,male,corporate,Emergency Department (ED) Measures,11:31:06 am,11:54:52 am,12:00:13 pm
+41189,Choi,17,female,insurance,Acute Myocardial Infarction (AMI),9:24:29 am,10:11:59 am,10:19:29 am
+55166,Boyer,67,unidentified,HMO,Emergency Department (ED) Measures,8:22:02 am,9:04:52 am,9:13:14 am
+84561,Garrison,75,male,insurance,Acute Myocardial Infarction (AMI),9:15:05 am,9:58:10 am,10:56:34 am
+6724,Arroyo,30,female,insurance,Acute Myocardial Infarction (AMI),6:42:57 pm,7:39:06 pm,7:46:11 pm
+48179,Bond,33,female,insurance,Blood clot prevention and treatment,2:53:04 pm,3:07:48 pm,3:07:51 pm
+43393,Kane,57,female,insurance,Emergency Department (ED) Measures,10:28:42 am,11:06:48 am,11:20:07 am
+31479,Hancock,22,unidentified,insurance,Emergency Department (ED) Measures,9:03:36 am,9:56:26 am,10:02:56 am
+91061,Callahan,15,male,HMO,Preventative Care Measures,11:58:27 am,12:46:23 pm,12:46:36 pm
+21052,Dillon,74,female,corporate,Acute Myocardial Infarction (AMI),10:54:43 am,12:08:42 pm,12:08:47 pm
+65617,Cline,58,unidentified,insurance,Acute Myocardial Infarction (AMI),10:21:08 am,10:49:32 am,10:47:49 am
+40606,Wiggins,39,female,HMO,Preventative Care Measures,3:30:48 pm,4:56:22 pm,4:56:26 pm
+77112,Grimes,48,male,HMO,Acute Myocardial Infarction (AMI),11:56:01 am,12:23:33 pm,12:27:48 pm
+88108,Arellano,37,male,HMO,Acute Myocardial Infarction (AMI),10:15:54 am,10:23:46 am,10:27:17 am
+32980,Melton,47,unidentified,HMO,Emergency Department (ED) Measures,1:22:08 pm,2:25:17 pm,2:26:22 pm
+38272,Oneill,58,male,insurance,Acute Myocardial Infarction (AMI),2:47:37 pm,3:07:16 pm,3:07:30 pm
+20985,Savage,36,female,HMO,Emergency Department (ED) Measures,12:15:30 pm,1:03:24 pm,1:04:29 pm
+38865,Ho,60,female,insurance,Emergency Department (ED) Measures,10:15:20 am,10:32:50 am,10:42:21 am
+47354,Beltran,46,female,insurance,Emergency Department (ED) Measures,3:22:16 pm,4:22:45 pm,4:22:47 pm
+77567,Pitts,49,female,insurance,Emergency Department (ED) Measures,10:51:21 am,12:20:39 pm,12:20:59 pm
+93530,Parrish,67,unidentified,corporate,Acute Myocardial Infarction (AMI),6:28:14 pm,6:45:20 pm,6:47:42 pm
+96493,Ponce,21,male,HMO,Blood clot prevention and treatment,7:27:58 pm,7:37:41 pm,7:43:31 pm
+90219,Rich,27,female,HMO,Emergency Department (ED) Measures,3:06:15 pm,4:03:19 pm,4:05:44 pm
+27079,Booth,37,female,corporate,Emergency Department (ED) Measures,2:07:59 pm,2:30:10 pm,2:36:19 pm
+88991,Koch,55,male,corporate,Emergency Department (ED) Measures,9:03:42 am,11:34:04 am,11:34:12 am
+28494,Golden,48,unidentified,HMO,Preventative Care Measures,11:04:46 am,12:22:21 pm,12:26:34 pm
+26665,Ware,18,unidentified,corporate,Blood clot prevention and treatment,9:36:47 am,10:41:55 am,10:41:57 am
+80191,Brennan,19,male,corporate,Acute Myocardial Infarction (AMI),7:02:41 pm,8:17:39 pm,8:25:48 pm
+61747,Mcdowell,64,male,HMO,Acute Myocardial Infarction (AMI),11:11:49 am,12:41:11 pm,12:41:18 pm
+64225,Marks,61,female,HMO,Acute Myocardial Infarction (AMI),10:50:40 am,11:15:55 am,11:23:23 am
+68102,Cantu,68,unidentified,corporate,Acute Myocardial Infarction (AMI),2:47:44 pm,3:24:18 pm,3:26:31 pm
+26403,Humphrey,21,male,insurance,Acute Myocardial Infarction (AMI),10:03:08 am,10:39:39 am,11:04:10 am
+49071,Baxter,56,unidentified,insurance,Emergency Department (ED) Measures,9:54:31 am,11:59:12 am,12:09:29 pm
+71338,Sawyer,61,female,insurance,Acute Myocardial Infarction (AMI),6:39:00 pm,6:44:38 pm,6:50:34 pm
+59754,Clay,67,female,insurance,Emergency Department (ED) Measures,8:01:29 am,8:19:26 am,8:23:26 am
+7600,Tanner,36,female,insurance,Preventative Care Measures,8:22:49 am,9:50:32 am,9:50:35 am
+68630,Hutchinson,26,male,HMO,Blood clot prevention and treatment,9:37:31 am,10:00:08 am,10:02:13 am
+41862,Kaur,36,male,HMO,Emergency Department (ED) Measures,9:19:42 am,9:46:21 am,9:47:27 am
+76287,Berg,39,male,medicare,Emergency Department (ED) Measures,11:27:08 am,12:00:49 pm,12:09:45 pm
+57195,Wiley,47,male,medicare,Acute Myocardial Infarction (AMI),8:32:14 am,8:44:15 am,8:49:01 am
+85164,Gilmore,59,female,HMO,Emergency Department (ED) Measures,8:39:12 am,10:00:23 am,10:01:46 am
+43226,Russo,49,female,corporate,Emergency Department (ED) Measures,12:07:27 pm,12:34:11 pm,12:34:20 pm
+93871,Villegas,57,unidentified,corporate,Emergency Department (ED) Measures,3:46:52 pm,4:10:28 pm,4:18:27 pm
+61373,Hobbs,31,male,corporate,Acute Myocardial Infarction (AMI),8:37:37 am,9:25:29 am,9:25:31 am
+81600,Keith,69,female,insurance,Emergency Department (ED) Measures,9:01:11 am,10:04:38 am,10:04:42 am
+63713,Wilkerson,72,male,corporate,Emergency Department (ED) Measures,2:39:53 pm,3:08:28 pm,3:08:33 pm
+26419,Ahmed,57,unidentified,insurance,Acute Myocardial Infarction (AMI),8:38:10 am,9:56:16 am,9:56:45 am
+42827,Beard,31,unidentified,insurance,Blood clot prevention and treatment,9:15:27 am,10:55:03 am,10:55:04 am
+80301,Mcclain,41,unidentified,insurance,Emergency Department (ED) Measures,11:12:17 am,12:14:04 pm,12:27:02 pm
+94029,Montes,75,unidentified,insurance,Emergency Department (ED) Measures,4:47:13 pm,4:49:39 pm,4:52:43 pm
+92785,Mata,29,female,corporate,Acute Myocardial Infarction (AMI),2:14:39 pm,2:28:59 pm,2:31:50 pm
+37732,Rosario,68,unidentified,insurance,Emergency Department (ED) Measures,12:06:57 pm,1:02:49 pm,1:02:54 pm
+69586,Vang,36,female,HMO,Emergency Department (ED) Measures,8:54:25 am,10:24:14 am,10:26:19 am
+82252,Walter,24,unidentified,corporate,Acute Myocardial Infarction (AMI),8:31:18 am,9:19:31 am,9:19:34 am
+49696,Henson,37,unidentified,insurance,Blood clot prevention and treatment,3:27:02 pm,5:12:02 pm,5:30:41 pm
+77655,Oneal,26,male,insurance,Preventative Care Measures,11:50:12 am,12:02:17 pm,12:03:17 pm
+57130,Mosley,59,female,corporate,Emergency Department (ED) Measures,8:32:25 am,9:16:00 am,10:30:02 am
+51544,Mcclure,47,unidentified,insurance,Acute Myocardial Infarction (AMI),7:03:35 pm,7:14:38 pm,7:18:10 pm
+65379,Beasley,16,male,insurance,Acute Myocardial Infarction (AMI),8:53:30 am,10:58:36 am,10:58:39 am
+60423,Stephenson,30,unidentified,medicare,Emergency Department (ED) Measures,9:18:29 am,9:49:30 am,9:55:34 am
+31756,Snow,45,female,HMO,Acute Myocardial Infarction (AMI),11:48:16 am,12:10:13 pm,12:17:18 pm
+41148,Huerta,22,female,HMO,Blood clot prevention and treatment,10:19:41 am,11:33:31 am,11:38:06 am
+76523,Preston,40,male,HMO,Acute Myocardial Infarction (AMI),9:50:19 am,10:35:51 am,10:43:59 am
+77266,Vance,67,female,HMO,Acute Myocardial Infarction (AMI),9:19:36 am,1:45:11 pm,1:51:59 pm
+36700,Barry,49,unidentified,HMO,Emergency Department (ED) Measures,9:12:12 am,9:47:33 am,9:47:43 am
+97377,Johns,43,male,HMO,Acute Myocardial Infarction (AMI),9:32:13 am,11:16:10 am,12:12:33 pm
+1491,Eaton,32,female,HMO,Emergency Department (ED) Measures,10:20:38 am,10:58:15 am,11:08:24 am
+42217,Blackwell,75,unidentified,medicare,Emergency Department (ED) Measures,9:00:38 am,9:23:09 am,9:24:33 am
+37796,Dyer,70,male,HMO,Preventative Care Measures,11:09:15 am,11:23:54 am,11:24:16 am
+87443,Prince,65,female,insurance,Emergency Department (ED) Measures,2:02:05 pm,2:12:26 pm,2:15:01 pm
+84666,Macdonald,51,unidentified,corporate,Blood clot prevention and treatment,4:06:21 pm,4:48:18 pm,4:55:16 pm
+83682,Solomon,70,unidentified,HMO,Emergency Department (ED) Measures,8:41:55 am,8:56:26 am,8:56:47 am
+94986,Guevara,46,unidentified,HMO,Emergency Department (ED) Measures,11:39:52 am,3:19:16 pm,3:20:50 pm
+12823,Stafford,25,female,HMO,Blood clot prevention and treatment,2:10:14 pm,2:36:15 pm,2:40:36 pm
+57762,English,56,female,medicare,Emergency Department (ED) Measures,4:07:44 pm,4:46:16 pm,4:46:28 pm
+63736,Hurst,31,female,HMO,Emergency Department (ED) Measures,2:17:46 pm,2:42:42 pm,2:42:48 pm
+38816,Woodard,38,unidentified,HMO,Emergency Department (ED) Measures,2:33:48 pm,3:02:48 pm,3:04:14 pm
+23599,Cortes,74,male,medicare,Emergency Department (ED) Measures,5:30:21 pm,5:47:52 pm,5:48:44 pm
+50341,Shannon,44,female,insurance,Emergency Department (ED) Measures,12:08:18 pm,12:53:00 pm,12:54:17 pm
+67223,Kemp,53,male,corporate,Acute Myocardial Infarction (AMI),9:25:35 am,10:10:10 am,10:20:05 am
+98098,Nolan,17,female,insurance,Acute Myocardial Infarction (AMI),3:47:24 pm,4:10:57 pm,4:26:51 pm
+31369,Mccullough,16,unidentified,corporate,Emergency Department (ED) Measures,9:23:06 am,10:04:05 am,10:05:34 am
+33111,Merritt,65,male,HMO,Acute Myocardial Infarction (AMI),9:13:55 am,9:30:19 am,9:31:51 am
+93921,Murillo,23,female,insurance,Acute Myocardial Infarction (AMI),8:32:30 am,9:02:49 am,9:18:04 am
+7201,Moon,44,male,insurance,Acute Myocardial Infarction (AMI),10:57:56 am,11:07:10 am,11:15:22 am
+52094,Salgado,36,unidentified,insurance,Blood clot prevention and treatment,9:20:27 am,10:03:05 am,10:03:34 am
+36242,Strong,25,female,insurance,Acute Myocardial Infarction (AMI),2:31:29 pm,3:01:12 pm,3:13:35 pm
+3147,Kline,74,female,insurance,Acute Myocardial Infarction (AMI),11:22:53 am,11:37:42 am,11:42:33 am
+26924,Cordova,29,female,insurance,Emergency Department (ED) Measures,3:28:39 pm,4:25:58 pm,4:26:00 pm
+77461,Barajas,59,unidentified,insurance,Emergency Department (ED) Measures,3:04:25 pm,3:27:41 pm,3:36:19 pm
+99160,Roach,21,male,HMO,Emergency Department (ED) Measures,11:11:24 am,11:26:00 am,11:26:13 am
+36236,Rosas,72,unidentified,insurance,Blood clot prevention and treatment,4:41:24 pm,5:04:26 pm,5:04:32 pm
+18569,Winters,37,unidentified,insurance,Acute Myocardial Infarction (AMI),7:29:05 pm,7:40:24 pm,7:44:22 pm
+77634,Jacobson,36,female,HMO,Acute Myocardial Infarction (AMI),10:18:33 am,11:30:33 am,11:37:34 am
+20360,Lester,36,male,corporate,Blood clot prevention and treatment,2:32:10 pm,3:34:31 pm,4:07:35 pm
+44214,Knox,70,unidentified,insurance,Emergency Department (ED) Measures,9:54:07 am,11:43:17 am,11:50:17 am
+4553,Bullock,62,male,insurance,Emergency Department (ED) Measures,6:06:00 pm,6:34:42 pm,6:35:19 pm
+12860,Kerr,23,unidentified,corporate,Acute Myocardial Infarction (AMI),10:13:21 am,10:31:36 am,10:39:27 am
+65466,Leach,51,unidentified,HMO,Acute Myocardial Infarction (AMI),8:43:10 pm,9:30:07 pm,9:44:51 pm
+23347,Meadows,44,male,HMO,Acute Myocardial Infarction (AMI),11:26:34 am,11:34:05 am,1:17:00 pm
+99080,Orr,46,female,insurance,Emergency Department (ED) Measures,8:54:22 am,9:23:59 am,9:25:33 am
+67957,Davila,21,female,corporate,Acute Myocardial Infarction (AMI),7:06:17 pm,7:50:20 pm,7:53:47 pm
+79725,Whitehead,30,male,insurance,Acute Myocardial Infarction (AMI),9:51:06 pm,10:12:28 pm,10:12:30 pm
+48946,Pruitt,71,unidentified,insurance,Emergency Department (ED) Measures,9:10:57 am,10:03:26 am,10:03:29 am
+56366,Kent,53,male,insurance,Emergency Department (ED) Measures,12:33:41 pm,12:41:28 pm,12:44:21 pm
+86085,Conway,21,female,insurance,Emergency Department (ED) Measures,12:28:47 pm,12:42:01 pm,12:49:45 pm
+74598,Mckee,70,female,HMO,Acute Myocardial Infarction (AMI),2:02:08 pm,3:05:32 pm,3:12:47 pm
+94380,Barr,18,female,corporate,Preventative Care Measures,10:31:42 am,10:54:25 am,10:55:11 am
+98409,David,74,male,insurance,Acute Myocardial Infarction (AMI),9:33:58 am,10:15:42 am,10:15:48 am
+33630,Dejesus,74,unidentified,insurance,Emergency Department (ED) Measures,6:40:21 pm,6:50:34 pm,6:50:52 pm
+50046,Marin,23,unidentified,corporate,Emergency Department (ED) Measures,10:09:58 am,11:12:08 am,11:21:02 am
+67592,Berger,55,unidentified,insurance,Acute Myocardial Infarction (AMI),9:31:16 am,9:42:38 am,9:49:01 am
+32133,Mcintyre,68,male,insurance,Acute Myocardial Infarction (AMI),11:07:48 am,12:45:29 pm,12:50:19 pm
+69119,Blankenship,41,female,insurance,Acute Myocardial Infarction (AMI),8:47:13 am,9:15:59 am,9:31:10 am
+61033,Gaines,18,female,HMO,Emergency Department (ED) Measures,10:10:20 am,11:05:42 am,11:09:02 am
+84920,Palacios,45,male,insurance,Acute Myocardial Infarction (AMI),2:15:46 pm,2:37:18 pm,2:37:21 pm
+71625,Cuevas,75,unidentified,corporate,Emergency Department (ED) Measures,2:44:10 pm,3:10:12 pm,3:15:27 pm
+40797,Bartlett,28,male,insurance,Acute Myocardial Infarction (AMI),9:10:56 am,9:16:30 am,9:20:29 am
+58897,Durham,48,female,corporate,Blood clot prevention and treatment,11:48:21 am,1:35:05 pm,1:19:49 pm
+91120,Dorsey,22,unidentified,medicare,Emergency Department (ED) Measures,10:38:35 am,11:08:32 am,11:13:23 am
+43360,Mccall,64,male,HMO,Acute Myocardial Infarction (AMI),8:58:15 am,9:53:32 am,11:12:31 am
+9590,Odonnell,71,unidentified,HMO,Emergency Department (ED) Measures,9:23:00 am,9:35:46 am,9:43:51 am
+83651,Stein,57,unidentified,HMO,Preventative Care Measures,3:35:57 pm,3:48:23 pm,3:48:41 pm
+98977,Browning,23,unidentified,insurance,Acute Myocardial Infarction (AMI),5:09:00 pm,6:19:20 pm,6:19:31 pm
+50957,Stout,15,male,insurance,Emergency Department (ED) Measures,9:37:41 am,10:33:00 am,10:33:37 am
+13940,Lowery,42,unidentified,insurance,Acute Myocardial Infarction (AMI),4:38:23 pm,4:59:39 pm,4:59:46 pm
+81753,Sloan,16,male,insurance,Acute Myocardial Infarction (AMI),6:39:35 pm,6:56:58 pm,7:02:46 pm
+86242,Mclean,36,unidentified,corporate,Blood clot prevention and treatment,8:08:03 am,8:37:19 am,8:39:32 am
+34395,Hendricks,47,female,insurance,Blood clot prevention and treatment,9:57:04 am,11:31:20 am,11:31:22 am
+73369,Calhoun,19,male,HMO,Preventative Care Measures,9:59:52 am,10:35:43 am,10:37:56 am
+29506,Sexton,63,female,insurance,Preventative Care Measures,1:47:00 pm,3:04:55 pm,3:04:57 pm
+57201,Chung,23,unidentified,insurance,Emergency Department (ED) Measures,10:14:50 am,12:15:13 pm,12:15:18 pm
+10147,Gentry,71,female,corporate,Acute Myocardial Infarction (AMI),2:12:28 pm,3:04:14 pm,3:04:31 pm
+78154,Hull,22,male,insurance,Emergency Department (ED) Measures,6:41:20 pm,7:38:23 pm,7:44:11 pm
+58707,Duarte,23,male,insurance,Acute Myocardial Infarction (AMI),8:31:06 am,9:14:43 am,10:37:56 am
+77218,Ellison,29,male,insurance,Acute Myocardial Infarction (AMI),7:09:22 pm,8:06:15 pm,8:07:01 pm
+31833,Nielsen,36,male,insurance,Acute Myocardial Infarction (AMI),2:36:58 pm,4:30:59 pm,4:31:00 pm
+98523,Gillespie,45,female,insurance,Emergency Department (ED) Measures,2:24:20 pm,2:57:46 pm,3:00:20 pm
+28380,Buck,65,female,HMO,Acute Myocardial Infarction (AMI),10:18:52 am,10:43:37 am,10:43:52 am
+66818,Middleton,52,male,medicare,Blood clot prevention and treatment,8:27:38 am,9:00:14 am,9:07:00 am
+15695,Sellers,69,male,corporate,Acute Myocardial Infarction (AMI),8:55:43 am,9:31:35 am,9:46:37 am
+86671,Leblanc,58,unidentified,HMO,Acute Myocardial Infarction (AMI),10:45:04 am,11:12:10 am,11:14:35 am
+50131,Esparza,49,female,HMO,Acute Myocardial Infarction (AMI),9:29:27 am,10:27:36 am,10:27:37 am
+26485,Hardin,50,female,HMO,Preventative Care Measures,8:25:01 am,9:03:27 am,9:12:48 am
+99644,Bradshaw,33,male,corporate,Acute Myocardial Infarction (AMI),2:00:08 pm,2:42:03 pm,2:43:38 pm
+34751,Mcintosh,73,unidentified,insurance,Emergency Department (ED) Measures,3:58:21 pm,4:44:02 pm,4:44:07 pm
+96636,Howe,51,male,insurance,Acute Myocardial Infarction (AMI),10:27:17 am,11:07:46 am,11:18:26 am
+10288,Livingston,43,male,insurance,Emergency Department (ED) Measures,6:01:21 pm,6:24:57 pm,6:27:49 pm
+82406,Frost,59,unidentified,HMO,Acute Myocardial Infarction (AMI),8:40:46 am,9:17:31 am,9:30:02 am
+19238,Glass,65,female,insurance,Acute Myocardial Infarction (AMI),11:35:35 am,11:49:57 am,12:03:13 pm
+33662,Morse,34,female,insurance,Emergency Department (ED) Measures,10:10:46 am,11:21:04 am,11:43:12 am
+13780,Knapp,48,female,insurance,Emergency Department (ED) Measures,10:44:01 am,12:03:04 pm,12:58:18 pm
+93811,Herman,69,unidentified,insurance,Emergency Department (ED) Measures,9:32:55 am,10:37:05 am,10:46:43 am
+7211,Stark,36,unidentified,insurance,Emergency Department (ED) Measures,8:30:46 am,8:50:53 am,8:50:55 am
+92329,Bravo,44,unidentified,corporate,Acute Myocardial Infarction (AMI),2:32:02 pm,3:01:15 pm,3:03:55 pm
+26189,Noble,33,male,insurance,Emergency Department (ED) Measures,9:54:07 am,10:30:05 am,10:35:55 am
+99772,Spears,58,male,insurance,Emergency Department (ED) Measures,9:52:06 am,11:25:41 am,11:50:10 am
+61260,Weeks,45,female,insurance,Acute Myocardial Infarction (AMI),12:15:11 pm,12:41:46 pm,12:45:46 pm
+89252,Corona,21,male,insurance,Preventative Care Measures,11:08:06 am,11:26:31 am,11:26:34 am
+18715,Frederick,28,male,insurance,Blood clot prevention and treatment,8:17:23 am,9:39:10 am,9:39:15 am
+10347,Buckley,42,unidentified,HMO,Acute Myocardial Infarction (AMI),9:25:06 am,9:45:00 am,10:04:16 am
+25410,Mcfarland,23,male,HMO,Emergency Department (ED) Measures,4:30:43 pm,5:40:11 pm,5:42:48 pm
+76188,Hebert,72,male,HMO,Emergency Department (ED) Measures,9:30:19 am,10:23:11 am,10:23:14 am
+5307,Enriquez,61,female,medicare,Acute Myocardial Infarction (AMI),11:09:41 am,11:13:45 am,11:17:00 am
+38671,Hickman,24,male,medicare,Acute Myocardial Infarction (AMI),10:48:15 am,11:41:27 am,11:42:07 am
+58121,Quintero,40,unidentified,HMO,Acute Myocardial Infarction (AMI),9:08:06 am,12:06:44 pm,12:53:35 pm
+26180,Randolph,45,male,medicare,Acute Myocardial Infarction (AMI),10:56:38 am,11:13:12 am,11:18:04 am
+28852,Schaefer,20,male,HMO,Emergency Department (ED) Measures,11:40:59 am,12:53:23 pm,12:56:37 pm
+83847,Walls,34,unidentified,HMO,Emergency Department (ED) Measures,9:17:40 am,9:48:26 am,9:52:05 am
+56936,Trejo,27,unidentified,HMO,Emergency Department (ED) Measures,3:17:46 pm,3:30:43 pm,3:32:55 pm
+43401,House,37,female,HMO,Acute Myocardial Infarction (AMI),6:37:12 pm,6:56:22 pm,6:57:05 pm
+28055,Reilly,69,female,corporate,Acute Myocardial Infarction (AMI),11:52:01 am,2:10:44 pm,2:10:46 pm
+70700,Pennington,29,female,HMO,Emergency Department (ED) Measures,9:25:26 am,9:56:59 am,9:58:26 am
+18403,Michael,22,male,insurance,Preventative Care Measures,4:21:22 pm,4:50:36 pm,4:56:59 pm
+85393,Conrad,44,female,corporate,Emergency Department (ED) Measures,9:29:41 am,10:21:18 am,10:27:24 am
+79969,Giles,57,male,insurance,Emergency Department (ED) Measures,8:47:14 am,9:50:37 am,9:57:00 am
+98833,Benjamin,28,male,insurance,Acute Myocardial Infarction (AMI),8:23:37 am,8:34:28 am,8:38:16 am
+2155,Crosby,35,female,insurance,Emergency Department (ED) Measures,2:22:06 pm,3:23:06 pm,3:28:52 pm
+41564,Fitzpatrick,28,male,insurance,Acute Myocardial Infarction (AMI),6:03:21 pm,6:15:11 pm,6:30:27 pm
+73146,Donovan,59,female,insurance,Emergency Department (ED) Measures,9:37:14 am,10:09:54 am,10:13:04 am
+29528,Mays,33,unidentified,insurance,Emergency Department (ED) Measures,10:29:02 am,12:45:56 pm,12:48:50 pm
+6080,Mahoney,66,unidentified,insurance,Emergency Department (ED) Measures,11:55:59 am,12:14:52 pm,12:15:04 pm
+72361,Valentine,39,female,insurance,Acute Myocardial Infarction (AMI),8:55:36 am,9:22:28 am,9:23:38 am
+47041,Raymond,58,female,insurance,Preventative Care Measures,7:54:11 pm,9:46:07 pm,9:47:56 pm
+89885,Medrano,24,male,insurance,Acute Myocardial Infarction (AMI),7:55:12 pm,8:26:51 pm,8:11:19 pm
+47383,Hahn,38,female,insurance,Preventative Care Measures,12:09:12 pm,12:37:17 pm,12:38:02 pm
+94307,Mcmillan,18,male,corporate,Acute Myocardial Infarction (AMI),10:32:33 am,1:07:13 pm,1:07:18 pm
+86212,Small,47,unidentified,HMO,Acute Myocardial Infarction (AMI),9:56:15 am,10:47:49 am,10:55:01 am
+68068,Bentley,66,female,medicare,Acute Myocardial Infarction (AMI),8:16:30 am,8:24:27 am,8:28:27 am
+80109,Felix,59,female,corporate,Acute Myocardial Infarction (AMI),12:28:08 pm,12:45:49 pm,12:45:52 pm
+37913,Peck,61,unidentified,HMO,Blood clot prevention and treatment,9:52:46 am,12:04:23 pm,12:04:25 pm
+87261,Lucero,59,male,insurance,Emergency Department (ED) Measures,10:01:55 am,10:50:02 am,11:01:47 am
+19774,Boyle,40,male,insurance,Preventative Care Measures,9:45:48 am,11:07:35 am,11:07:39 am
+36462,Hanna,68,unidentified,medicare,Emergency Department (ED) Measures,8:44:21 am,9:23:30 am,9:36:37 am
+98407,Pace,25,male,HMO,Emergency Department (ED) Measures,9:32:44 am,2:17:50 pm,2:21:40 pm
+96294,Rush,56,male,HMO,Preventative Care Measures,8:29:50 am,8:45:46 am,10:03:20 am
+23811,Hurley,75,unidentified,HMO,Emergency Department (ED) Measures,8:41:48 am,9:19:56 am,9:21:44 am
+86795,Harding,16,female,HMO,Acute Myocardial Infarction (AMI),2:00:43 pm,2:44:35 pm,4:08:47 pm
+14185,Mcconnell,32,female,medicare,Emergency Department (ED) Measures,10:33:36 am,10:41:23 am,10:47:16 am
+97504,Bernal,73,female,insurance,Blood clot prevention and treatment,10:52:55 am,11:58:30 am,12:19:12 pm
+23872,Nava,39,male,insurance,Emergency Department (ED) Measures,12:20:15 pm,12:40:08 pm,12:43:12 pm
+64640,Ayers,20,male,insurance,Emergency Department (ED) Measures,9:14:36 am,9:52:56 am,9:58:23 am
+59602,Everett,69,male,insurance,Emergency Department (ED) Measures,7:39:26 pm,8:00:45 pm,8:00:57 pm
+17278,Ventura,52,female,insurance,Emergency Department (ED) Measures,10:18:50 am,12:56:59 pm,11:30:32 am
+42454,Avery,63,female,corporate,Acute Myocardial Infarction (AMI),10:52:34 am,11:55:09 am,11:55:12 am
+53902,Pugh,19,unidentified,insurance,Emergency Department (ED) Measures,9:24:24 am,10:23:28 am,10:24:57 am
+97913,Mayer,32,male,HMO,Blood clot prevention and treatment,10:16:27 am,11:19:44 am,11:21:50 am
+7179,Bender,15,unidentified,insurance,Acute Myocardial Infarction (AMI),12:11:29 pm,12:27:06 pm,12:30:32 pm
+63565,Shepard,58,male,corporate,Acute Myocardial Infarction (AMI),10:37:31 am,11:45:41 am,11:48:05 am
+50065,Mcmahon,40,female,insurance,Preventative Care Measures,3:32:44 pm,4:19:35 pm,4:39:05 pm
+27994,Landry,57,unidentified,HMO,Emergency Department (ED) Measures,10:15:31 am,10:28:59 am,11:03:46 am
+35315,Case,16,male,HMO,Acute Myocardial Infarction (AMI),9:33:43 am,9:51:27 am,11:26:34 am
+82949,Sampson,19,unidentified,insurance,Emergency Department (ED) Measures,7:25:21 pm,7:36:10 pm,7:39:15 pm
+50654,Moses,34,female,insurance,Acute Myocardial Infarction (AMI),5:01:49 pm,5:28:28 pm,5:29:50 pm
+23527,Magana,57,male,insurance,Acute Myocardial Infarction (AMI),7:14:53 pm,7:26:38 pm,7:29:22 pm
+78515,Blackburn,50,female,insurance,Preventative Care Measures,9:24:22 am,12:01:08 pm,12:01:16 pm
+2652,Dunlap,73,male,insurance,Acute Myocardial Infarction (AMI),11:28:06 am,12:40:42 pm,12:40:44 pm
+80065,Gould,49,male,corporate,Acute Myocardial Infarction (AMI),9:51:42 am,11:29:20 am,11:29:26 am
+7234,Duffy,69,male,HMO,Blood clot prevention and treatment,10:16:08 am,11:47:44 am,11:48:58 am
+86038,Vaughan,23,male,corporate,Acute Myocardial Infarction (AMI),8:54:15 am,9:24:25 am,9:34:24 am
+19063,Herring,65,female,insurance,Preventative Care Measures,6:36:12 pm,6:48:19 pm,6:51:41 pm
+18842,Mckay,52,female,insurance,Preventative Care Measures,6:49:55 pm,7:40:35 pm,7:40:37 pm
+10338,Espinosa,72,unidentified,corporate,Blood clot prevention and treatment,8:46:00 am,9:07:33 am,9:10:00 am
+23974,Rivers,50,female,corporate,Emergency Department (ED) Measures,8:34:19 am,11:29:09 am,11:29:13 am
+12172,Farley,24,male,HMO,Emergency Department (ED) Measures,9:14:52 am,9:33:36 am,9:37:25 am
+35502,Bernard,69,unidentified,medicare,Emergency Department (ED) Measures,11:34:09 am,12:30:48 pm,12:35:02 pm
+66971,Ashley,17,male,medicare,Acute Myocardial Infarction (AMI),7:36:24 pm,7:49:37 pm,7:52:24 pm
+64480,Friedman,39,unidentified,HMO,Acute Myocardial Infarction (AMI),5:47:39 pm,6:00:32 pm,6:06:27 pm
+48238,Potts,32,unidentified,HMO,Acute Myocardial Infarction (AMI),2:04:49 pm,3:09:07 pm,2:46:41 pm
+65483,Truong,19,unidentified,medicare,Acute Myocardial Infarction (AMI),2:34:54 pm,3:16:46 pm,3:18:12 pm
+68693,Costa,51,unidentified,HMO,Acute Myocardial Infarction (AMI),6:12:50 pm,6:50:03 pm,7:29:30 pm
+33296,Correa,37,female,HMO,Preventative Care Measures,10:38:24 am,10:48:59 am,10:52:24 am
+42392,Blevins,28,unidentified,medicare,Blood clot prevention and treatment,10:20:12 am,11:01:31 am,11:06:22 am
+83486,Nixon,56,female,HMO,Emergency Department (ED) Measures,9:05:44 am,11:51:59 am,12:39:35 pm
+82020,Clements,30,unidentified,HMO,Emergency Department (ED) Measures,10:15:43 am,10:56:12 am,11:03:09 am
+57833,Fry,47,male,insurance,Emergency Department (ED) Measures,8:13:35 am,8:30:21 am,8:35:31 am
+51590,Delarosa,54,unidentified,insurance,Emergency Department (ED) Measures,10:39:06 am,10:51:21 am,10:53:45 am
+40216,Best,65,unidentified,insurance,Acute Myocardial Infarction (AMI),8:43:45 am,12:23:46 pm,12:23:55 pm
+40298,Benton,26,unidentified,insurance,Emergency Department (ED) Measures,10:44:08 am,11:25:48 am,11:30:51 am
+82239,Lugo,31,unidentified,HMO,Emergency Department (ED) Measures,7:45:52 pm,8:13:05 pm,8:15:44 pm
+96630,Portillo,25,unidentified,insurance,Emergency Department (ED) Measures,11:44:05 am,12:11:52 pm,12:18:33 pm
+81018,Dougherty,41,unidentified,insurance,Acute Myocardial Infarction (AMI),1:07:31 pm,1:13:10 pm,1:20:40 pm
+96664,Crane,58,male,insurance,Acute Myocardial Infarction (AMI),8:55:11 pm,9:06:08 pm,9:54:42 pm
+46124,Haley,59,male,corporate,Preventative Care Measures,3:25:33 pm,3:34:13 pm,3:40:34 pm
+77527,Phan,44,male,medicare,Blood clot prevention and treatment,8:01:33 am,8:31:22 am,8:32:20 am
+63884,Villalobos,31,unidentified,HMO,Emergency Department (ED) Measures,2:01:51 pm,2:04:58 pm,2:06:39 pm
+28662,Blanchard,61,male,HMO,Emergency Department (ED) Measures,2:28:31 pm,2:43:10 pm,2:45:33 pm
+57197,Horne,64,male,medicare,Acute Myocardial Infarction (AMI),9:41:46 am,10:16:38 am,10:17:16 am
+5540,Finley,52,female,HMO,Acute Myocardial Infarction (AMI),6:10:14 pm,6:30:31 pm,6:31:50 pm
+7776,Quintana,46,female,HMO,Emergency Department (ED) Measures,8:28:52 am,11:19:29 am,11:20:37 am
+75547,Lynn,64,male,corporate,Acute Myocardial Infarction (AMI),9:26:53 am,9:50:13 am,9:56:22 am
+87251,Esquivel,54,male,insurance,Emergency Department (ED) Measures,8:32:07 am,9:43:04 am,9:46:14 am
+92679,Bean,60,female,insurance,Emergency Department (ED) Measures,7:08:04 pm,7:33:27 pm,7:36:51 pm
+13224,Dodson,59,unidentified,corporate,Acute Myocardial Infarction (AMI),10:36:09 am,10:53:17 am,10:59:40 am
+16396,Mullen,45,female,insurance,Acute Myocardial Infarction (AMI),10:00:40 am,11:31:52 am,11:33:42 am
+91808,Xiong,48,male,insurance,Emergency Department (ED) Measures,9:56:07 am,10:34:50 am,10:41:03 am
+67079,Hayden,60,unidentified,insurance,Acute Myocardial Infarction (AMI),3:52:04 pm,4:19:46 pm,4:24:13 pm
+90017,Cano,67,unidentified,corporate,Acute Myocardial Infarction (AMI),6:49:53 pm,7:39:10 pm,7:41:26 pm
+45181,Levy,59,male,HMO,Acute Myocardial Infarction (AMI),8:58:48 am,9:46:05 am,9:49:07 am
+22659,Huber,75,female,insurance,Blood clot prevention and treatment,4:39:05 pm,4:58:01 pm,4:58:03 pm
+6520,Richmond,37,unidentified,insurance,Emergency Department (ED) Measures,6:36:12 pm,6:51:33 pm,6:51:37 pm
+92606,Moyer,67,male,corporate,Emergency Department (ED) Measures,10:06:50 am,10:44:54 am,10:45:56 am
+45545,Lim,60,unidentified,insurance,Acute Myocardial Infarction (AMI),4:31:30 pm,4:59:22 pm,5:10:55 pm
+95211,Frye,58,unidentified,insurance,Preventative Care Measures,6:01:32 pm,6:43:55 pm,6:42:09 pm
+47041,Sheppard,22,unidentified,insurance,Emergency Department (ED) Measures,11:21:18 am,11:31:49 am,11:33:18 am
+34440,Mccarty,54,unidentified,HMO,Acute Myocardial Infarction (AMI),8:37:33 am,10:41:24 am,11:34:36 am
+67072,Avalos,32,female,HMO,Emergency Department (ED) Measures,10:27:43 am,10:38:26 am,10:42:20 am
+32421,Booker,66,female,insurance,Blood clot prevention and treatment,11:41:28 am,12:04:58 pm,12:11:24 pm
+26015,Waller,17,unidentified,insurance,Blood clot prevention and treatment,8:13:34 am,8:25:05 am,8:29:52 am
+98529,Parra,19,unidentified,HMO,Emergency Department (ED) Measures,7:33:28 pm,7:48:10 pm,7:52:16 pm
+91057,Woodward,36,female,corporate,Blood clot prevention and treatment,10:03:52 am,11:21:19 am,11:23:03 am
+21825,Jaramillo,28,male,HMO,Emergency Department (ED) Measures,10:40:00 am,11:48:44 am,11:57:48 am
+3065,Krueger,49,male,insurance,Acute Myocardial Infarction (AMI),2:42:03 pm,4:15:01 pm,4:16:29 pm
+53617,Rasmussen,64,male,insurance,Emergency Department (ED) Measures,10:35:53 am,12:05:05 pm,12:08:46 pm
+72759,Brandt,27,unidentified,insurance,Emergency Department (ED) Measures,9:05:56 am,9:36:23 am,9:37:59 am
+56545,Peralta,66,unidentified,corporate,Preventative Care Measures,9:02:47 am,9:31:19 am,9:31:22 am
+96304,Donaldson,69,male,HMO,Emergency Department (ED) Measures,11:31:52 am,11:50:56 am,11:59:27 am
+93659,Stuart,44,unidentified,corporate,Emergency Department (ED) Measures,8:38:42 am,8:50:20 am,8:51:39 am
+55466,Faulkner,37,female,corporate,Acute Myocardial Infarction (AMI),8:03:39 pm,8:57:35 pm,9:00:41 pm
+45296,Maynard,52,male,HMO,Emergency Department (ED) Measures,7:46:57 pm,8:40:50 pm,8:41:55 pm
+40348,Galindo,49,male,insurance,Blood clot prevention and treatment,7:48:02 pm,7:54:26 pm,7:59:39 pm
+33608,Coffey,45,unidentified,insurance,Blood clot prevention and treatment,6:57:10 pm,8:16:11 pm,9:12:07 pm
+33677,Estes,37,female,insurance,Emergency Department (ED) Measures,4:58:58 pm,5:14:36 pm,5:17:36 pm
+11223,Sanford,28,unidentified,insurance,Emergency Department (ED) Measures,4:14:54 pm,5:09:50 pm,5:15:21 pm
+64325,Burch,73,unidentified,HMO,Emergency Department (ED) Measures,9:15:14 am,12:42:26 pm,4:45:35 pm
+68574,Maddox,43,female,HMO,Acute Myocardial Infarction (AMI),10:00:02 am,11:07:44 am,11:07:54 am
+70145,Vo,64,female,insurance,Acute Myocardial Infarction (AMI),11:20:01 am,12:21:56 pm,12:33:54 pm
+67593,Oconnell,26,unidentified,insurance,Emergency Department (ED) Measures,1:18:48 pm,1:38:14 pm,1:38:19 pm
+74099,Vu,26,male,insurance,Emergency Department (ED) Measures,5:10:28 pm,5:23:35 pm,5:26:07 pm
+24403,Andersen,71,female,insurance,Preventative Care Measures,6:12:10 pm,6:44:51 pm,6:48:19 pm
+32843,Spence,67,unidentified,insurance,Emergency Department (ED) Measures,10:45:18 am,1:00:29 pm,1:00:32 pm
+84963,Mcpherson,21,unidentified,insurance,Emergency Department (ED) Measures,8:47:57 am,9:42:29 am,9:48:12 am
+14849,Church,41,unidentified,insurance,Acute Myocardial Infarction (AMI),10:45:06 am,11:32:55 am,11:32:57 am
+15669,Schmitt,33,unidentified,insurance,Preventative Care Measures,2:44:52 pm,2:55:37 pm,2:55:50 pm
+60423,Stanton,52,female,insurance,Acute Myocardial Infarction (AMI),2:02:39 pm,2:17:00 pm,2:49:21 pm
+48061,Leal,43,male,corporate,Acute Myocardial Infarction (AMI),8:33:38 am,9:05:57 am,9:06:00 am
+20935,Cherry,43,female,corporate,Emergency Department (ED) Measures,9:07:02 am,9:46:19 am,9:47:53 am
+24641,Compton,37,female,medicare,Acute Myocardial Infarction (AMI),3:49:33 pm,4:53:58 pm,4:54:22 pm
+48293,Dudley,47,unidentified,medicare,Acute Myocardial Infarction (AMI),12:19:11 pm,12:49:08 pm,12:49:19 pm
+22327,Sierra,43,female,HMO,Acute Myocardial Infarction (AMI),10:52:05 pm,11:12:20 pm,11:12:26 pm
+68156,Pollard,56,male,medicare,Emergency Department (ED) Measures,8:33:27 am,8:53:32 am,8:57:24 am
+73351,Alfaro,65,male,corporate,Emergency Department (ED) Measures,8:30:56 pm,9:18:00 pm,9:18:30 pm
+47711,Hester,65,male,corporate,Acute Myocardial Infarction (AMI),6:53:48 pm,7:36:49 pm,7:41:56 pm
+42780,Proctor,31,male,HMO,Emergency Department (ED) Measures,8:57:24 am,10:06:51 am,10:17:32 am
+86462,Lu,56,male,HMO,Emergency Department (ED) Measures,9:26:38 am,10:10:36 am,10:15:23 am
+49383,Hinton,24,unidentified,insurance,Emergency Department (ED) Measures,2:20:34 pm,2:38:59 pm,2:42:42 pm
+77292,Novak,67,male,insurance,Emergency Department (ED) Measures,11:24:12 am,11:47:45 am,11:50:18 am
+43788,Good,38,male,insurance,Emergency Department (ED) Measures,6:16:39 pm,7:20:52 pm,7:20:56 pm
+94982,Madden,29,male,insurance,Acute Myocardial Infarction (AMI),7:38:07 pm,8:05:17 pm,8:12:59 pm
+87494,Mccann,15,unidentified,HMO,Acute Myocardial Infarction (AMI),11:06:56 am,11:32:33 am,11:34:28 am
+97894,Terrell,57,male,corporate,Emergency Department (ED) Measures,8:57:13 am,9:38:27 am,9:42:13 am
+23602,Jarvis,41,unidentified,insurance,Acute Myocardial Infarction (AMI),9:18:27 am,10:44:06 am,10:44:57 am
+92231,Dickson,27,unidentified,insurance,Emergency Department (ED) Measures,6:31:46 pm,6:43:28 pm,6:43:30 pm
+37226,Reyna,45,unidentified,insurance,Acute Myocardial Infarction (AMI),9:50:38 am,10:37:58 am,10:48:46 am
+12925,Cantrell,62,female,insurance,Emergency Department (ED) Measures,11:46:17 am,12:12:45 pm,12:12:55 pm
+85578,Mayo,64,unidentified,insurance,Preventative Care Measures,10:14:23 am,10:32:03 am,10:36:49 am
+32652,Branch,34,male,insurance,Blood clot prevention and treatment,9:57:10 am,10:36:26 am,10:40:58 am
+26109,Hendrix,67,female,corporate,Acute Myocardial Infarction (AMI),12:07:28 pm,12:50:05 pm,12:53:05 pm
+46452,Rollins,26,female,insurance,Preventative Care Measures,11:12:45 am,11:26:02 am,11:26:10 am
+92173,Rowland,52,female,insurance,Acute Myocardial Infarction (AMI),3:06:18 pm,5:32:12 pm,5:42:53 pm
+19267,Whitney,71,female,insurance,Preventative Care Measures,3:21:00 pm,3:55:03 pm,3:59:30 pm
+39826,Duke,36,unidentified,insurance,Acute Myocardial Infarction (AMI),8:38:19 am,8:52:57 am,8:54:58 am
+94739,Odom,36,male,insurance,Acute Myocardial Infarction (AMI),9:31:49 am,9:37:22 am,9:40:08 am
+29093,Daugherty,59,female,HMO,Acute Myocardial Infarction (AMI),8:06:16 pm,9:02:45 pm,9:11:56 pm
+22708,Travis,49,female,insurance,Emergency Department (ED) Measures,9:00:59 am,9:27:32 am,9:28:52 am
+6458,Tang,56,unidentified,HMO,Emergency Department (ED) Measures,10:23:18 am,11:00:45 am,11:04:46 am
+96307,Archer,69,male,HMO,Acute Myocardial Infarction (AMI),2:17:24 pm,4:34:28 pm,4:37:08 pm
