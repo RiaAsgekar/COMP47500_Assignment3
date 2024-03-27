@@ -1,5 +1,6 @@
-COMP47500 Assignment3
-COMPARISON OF INSERTION AND DELETION TIMES IN SORTED SEQUENCE, UNSORTED SEQUENCE AND HEAP BASED PRIORITY QUEUES
+#COMP47500 Assignment3
+
+#COMPARISON OF INSERTION AND DELETION TIMES IN SORTED SEQUENCE, UNSORTED SEQUENCE AND HEAP BASED PRIORITY QUEUES
 
 This assignment involves the implementation of three different implementations of priority queues:Sorted sequence, unsorted sequence and using heap. The main purpose is to compare their performance in terms of insertion and deletion operations using the dataset.
 
